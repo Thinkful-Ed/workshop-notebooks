@@ -1,0 +1,5 @@
+* {
+    box-sizing: border-box;
+}
+
+div#header-container {display: none !important;}

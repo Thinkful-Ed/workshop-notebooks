@@ -1,0 +1,35 @@
+Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Woman as lead,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Racial,Rate,Metascore
+2016,Arrival,NO,47000000.00,24000000.00,8.10,"Drama, Mystery, Sci-Fi, Thriller",1,0,0,8,2,9,tt2543164,0,0,0,0,PG-13,81
+2016,Fences,NO,24000000.00,129462.00,7.50,Drama,0,0,0,4,2,1,tt2671706,0,0,0,1,PG-13,79
+2016,Hacksaw Ridge,NO,40000000.00,15190758.00,8.30,"Drama, History, War",0,0,0,6,3,5,tt2119532,0,0,0,0,R,71
+2016,Hell or High Water,NO,12000000.00,621329.00,7.70,"Action, Crime, Drama, Western",1,0,0,4,3,3,tt2582782,0,0,0,0,R,88
+2016,Hidden Figures,NO,25000000.00,515499.00,7.90,"Biography, Drama, History",1,0,0,3,2,1,tt4846340,0,0,1,1,PG,74
+2016,La La Land,NO,30000000.00,4102091.00,8.50,"Comedy, Drama, Musical, Romance",0,1,1,14,7,11,tt3783958,1,1,0,0,PG-13,93
+2016,Lion,NO,12000000.00,159148.00,8.00,Drama,0,0,0,6,4,5,tt3741834,0,0,0,1,PG-13,69
+2016,Manchester by the Sea,NO,8500000.00,256498.00,8.10,Drama,0,0,0,6,5,6,tt4034228,0,0,0,0,R,96
+2016,Moonlight,YES,5000000.00,402075.00,8.00,Drama,0,1,0,8,6,4,tt4975722,0,0,0,1,R,99
+2009,Avatar,NO,237000000.00,77025481.00,7.80,"Action, Adventure, Fantasy, Sci-Fi",0,1,0,9,4,8,tt0499549,0,0,0,0,PG-13,83
+2009,The Blind Side,NO,29000000.00,34119372.00,7.70,"Biography, Drama, Sport",1,0,0,2,1,0,tt0878804,0,0,0,1,PG-13,53
+2009,District 9,NO,30000000.00,37354308.00,8.00,"Action, Sci-Fi, Thriller",0,0,0,4,1,7,tt1136608,0,0,0,0,R,81
+2009,An Education,NO,4500000.00,,7.30,Drama,1,0,0,3,1,8,tt1174732,0,0,0,0,PG-13,85
+2009,The Hurt Locker,YES,15000000.00,145352.00,7.60,"Drama, History, Thriller, War",0,0,1,9,3,8,tt0887912,1,1,0,0,R,94
+2009,Inglourious Basterds,NO,75000000.00,38054676.00,8.30,"Adventure, Drama, War",0,0,0,8,4,6,tt0361748,0,0,1,0,R,69
+2009,Precious: Based on the Novel 'Push' by Sapphire,NO,10000000.00,10881772.00,7.30,Drama,1,0,0,6,3,4,tt0929632,0,0,0,1,R,79
+2009,A Serious Man,NO,7000000.00,251337.00,7.00,"Comedy, Drama",0,0,0,2,1,1,tt1019452,0,0,0,0,R,79
+2009,Up,NO,175000000.00,68108790.00,8.30,"Animation, Adventure, Comedy, Family",0,0,0,5,2,4,tt1049413,1,0,0,0,PG,88
+2009,Up in the Air,NO,25000000.00,1181450.00,7.40,"Drama, Romance",0,0,0,6,6,6,tt1193138,0,0,0,0,R,83
+1996,The English Patient,YES,27000000.00,278439.00,7.40,"Drama, Romance, War",0,1,1,12,7,13,tt0116209,1,1,0,0,R,87
+1996,Fargo,NO,7000000.00,730265.00,8.10,"Crime, Drama, Thriller",0,0,0,7,4,6,tt0116282,0,0,0,0,R,85
+1996,Jerry Maguire,NO,50000000.00,17084296.00,7.30,"Comedy, Drama, Romance, Sport",0,0,0,5,3,0,tt0116695,0,0,0,0,R,77
+1996,Secrets & Lies,NO,,2931762.00,6.00,Drama,1,0,0,0,1,0,tt0120323,0,0,0,0,R,
+1996,Shine,NO,5500000.00,162179.00,7.70,"Biography, Drama, Music, Romance",0,0,0,7,5,9,tt0117631,0,0,0,0,PG-13,87
+1985,The Color Purple,NO,15000000.00,1710333.00,7.80,Drama,0,0,0,11,5,1,tt0088939,0,1,0,1,PG-13,78
+1985,Kiss of the Spider Woman,NO,,55962.00,7.40,Drama,0,0,0,4,4,1,tt0089424,0,0,0,0,R,80
+1985,Out of Africa,YES,31000000.00,3637290.00,7.20,"Biography, Drama, Romance",1,1,0,11,6,7,tt0089755,0,0,0,0,PG,
+1985,Prizzi's Honor,NO,,,6.80,"Comedy, Crime, Drama, Romance",0,1,0,8,6,2,tt0089841,0,0,0,0,R,
+1985,Witness,NO,12000000.00,4539990.00,7.40,"Crime, Drama, Romance, Thriller",0,0,0,8,6,7,tt0090329,0,0,0,0,R,76
+1976,All the President's Men,NO,8500000.00,,8.00,"Biography, Drama, History, Thriller",0,0,0,8,4,10,tt0074119,0,0,0,0,PG,
+1976,Bound for Glory,NO,,,7.40,"Biography, Drama, Music",0,0,0,6,4,0,tt0074235,0,0,0,0,PG,
+1976,Network,NO,3800000.00,,8.10,Drama,1,0,0,10,5,9,tt0074958,0,0,0,0,R,88
+1976,Rocky,YES,960000.00,5000000.00,8.10,"Drama, Sport",0,1,0,10,6,5,tt0075148,0,1,0,0,PG,
+1976,Taxi Driver,NO,1300000.00,,8.30,"Crime, Drama",1,0,0,4,2,7,tt0075314,0,0,0,0,R,93

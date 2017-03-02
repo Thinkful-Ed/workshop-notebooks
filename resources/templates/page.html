@@ -1,0 +1,20 @@
+{% extends "templates/page.html" %}
+{% block script %}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56096826-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+{% endblock %}
+
+{% block header_buttons %}
+  <span id="login_widget">
+    <a class="pull-right" style="text-decoration: none; color:black; vertical-align:middle;" href="https://developer.rackspace.com/" target="_blank"><span style="margin-left: 5px; margin-right: 5px; vertical-align:middle;">{% if notebook_name %}on{% else %}Hosted by Rackspace{% endif %}</span><img src="https://428ea60dd71097b96912-52fe2c597ff93cad46c31bb5625f4bf9.ssl.cf5.rackcdn.com/fanatiguy-logo.png" height='24px' style="vertical-align:middle;"/></a>
+  </span>
+{% endblock %}
