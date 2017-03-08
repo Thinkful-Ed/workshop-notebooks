@@ -1,284 +1,214 @@
-Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Woman as lead,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Racial,Rate,Metascore,
-2015,Spotlight,YES,20000000.00,295009.00,8.10,"Crime, Drama, History",0,0,0,6,3,3,tt1895587,0,0,1,0,R,93,
-2015,The Big Short,NO,28000000.00,10531026.00,7.80,"Biography, Comedy, Drama, History",0,0,0,5,4,5,tt1596363,1,0,0,0,R,81,
-2015,Bridge of Spies,NO,40000000.00,15371203.00,7.60,"Drama, History, Thriller",0,0,0,6,1,9,tt3682448,0,0,0,0,PG-13,81,
-2015,Brooklyn,NO,11000000.00,187281.00,7.50,"Drama, Romance",1,0,0,3,1,6,tt2381111,0,0,0,0,PG-13,87,
-2015,Mad Max: Fury Road,NO,150000000.00,45428128.00,8.10,"Action, Adventure, Sci-Fi, Thriller",0,0,0,10,2,7,tt1392190,0,0,0,0,R,90,
-2015,The Martian,NO,108000000.00,54308575.00,8.10,"Adventure, Drama, Sci-Fi",0,1,0,7,3,6,tt3659388,0,0,0,0,PG-13,80,
-2015,The Revenant,NO,135000000.00,38000000.00,8.00,"Adventure, Drama, Thriller, Western",0,1,1,12,4,8,tt1663202,0,1,0,0,R,76,
-2015,Room,NO,13000000.00,1335563.00,8.20,Drama,1,0,0,4,3,2,tt3170832,0,0,0,0,R,86,
-2014,Birdman or (The Unexpected Virtue of Ignorance),YES,18000000.00,2471471.00,7.80,"Comedy, Drama, Romance",0,0,0,10,7,10,tt2562232,1,1,1,0,R,88,
-2014,American Sniper,NO,58800000.00,89269067.00,7.30,"Action, Biography, Drama, History, Thriller, War",0,0,0,6,0,2,tt2179136,0,0,0,0,R,72,
-2014,Boyhood,NO,4000000.00,1992448.00,7.90,Drama,0,1,1,6,5,5,tt1065073,0,0,0,0,R,100,
-2014,The Grand Budapest Hotel,NO,25000000.00,811166.00,8.10,"Adventure, Comedy, Drama",0,1,0,9,4,11,tt2278388,0,0,0,0,R,88,
-2014,The Imitation Game,NO,14000000.00,7932292.00,8.10,"Biography, Drama, Thriller, War",0,0,0,8,5,9,tt2084970,0,0,0,0,PG-13,73,
-2014,Selma,NO,20000000.00,11307394.00,7.50,"Biography, Drama, History",0,0,0,2,4,0,tt1020072,0,0,0,1,PG-13,89,
-2014,The Theory of Everything,NO,15000000.00,,7.70,"Biography, Drama, Romance",0,0,0,5,4,10,tt2980516,0,0,0,0,PG-13,72,
-2014,Whiplash,NO,3300000.00,,8.50,"Drama, Music",0,0,0,6,1,5,tt2582802,0,0,0,0,R,88,
-2013,12 Years a Slave,YES,20000000.00,923715.00,8.10,"Biography, Drama, History",0,1,1,9,7,11,tt2024544,1,0,0,1,R,96,
-2013,American Hustle,NO,40000000.00,740455.00,7.30,"Crime, Drama",0,1,0,10,7,10,tt1800241,0,0,1,0,R,90,
-2013,Captain Phillips,NO,55000000.00,26000000.00,7.80,"Biography, Drama, Thriller",0,0,0,6,4,9,tt1535109,0,0,0,0,PG-13,83,
-2013,Dallas Buyers Club,NO,5000000.00,260865.00,8.00,"Biography, Drama",0,0,0,6,2,0,tt0790636,0,0,0,1,R,84,
-2013,Gravity,NO,100000000.00,55785112.00,7.80,"Adventure, Drama, Sci-Fi, Thriller",1,0,0,10,4,11,tt1454468,1,1,0,0,PG-13,96,
-2013,Her,NO,23000000.00,,8.00,"Drama, Romance, Sci-Fi",0,0,0,5,3,0,tt1798709,0,0,0,0,R,90,
-2013,Nebraska,NO,12000000.00,1552426.00,7.70,"Adventure, Comedy, Drama",0,0,0,6,5,3,tt1821549,0,0,0,0,R,86,
-2013,Philomena,NO,12000000.00,,7.60,"Biography, Drama",1,0,0,4,3,5,tt2431286,0,0,0,0,PG-13,77,
-2013,The Wolf of Wall Street,NO,100000000.00,18361578.00,8.20,"Biography, Comedy, Crime, Drama",0,0,0,5,2,4,tt0993846,0,0,0,0,R,75,
-2012,Argo,YES,44500000.00,19458109.00,7.70,"Biography, Drama, History, Thriller",0,1,1,7,5,7,tt1024648,1,1,1,0,R,86,
-2012,Amour,NO,8900000.00,,7.90,"Drama, Romance",0,0,1,5,1,4,tt1602620,0,0,0,0,PG-13,94,
-2012,Beasts of the Southern Wild,NO,1800000.00,169702.00,7.30,"Drama, Fantasy",1,0,0,4,0,1,tt2125435,0,0,0,1,PG-13,86,
-2012,Django Unchained,NO,100000000.00,30688000.00,8.40,"Drama, Western",0,0,0,5,5,5,tt1853728,0,0,0,1,R,81,
-2012,Les Misérables,NO,61000000.00,28027000.00,7.60,"Drama, Musical, Romance",0,1,0,8,4,9,tt1707386,0,0,0,0,PG-13,63,
-2012,Life of Pi,NO,120000000.00,22451514.00,7.90,"Adventure, Drama, Fantasy",0,0,0,11,3,10,tt0454876,0,0,0,1,PG,79,
-2012,Lincoln,NO,65000000.00,21049406.00,7.40,"Biography, Drama, History, War",0,0,0,12,7,10,tt0443272,0,0,0,0,PG-13,86,
-2012,Silver Linings Playbook,NO,21000000.00,443003.00,7.80,"Comedy, Drama, Romance",0,0,0,8,4,3,tt1045658,0,0,0,0,R,81,
-2012,Zero Dark Thirty,NO,40000000.00,417150.00,7.40,"Drama, History, Thriller",0,0,0,5,4,6,tt1790885,0,0,0,0,R,95,
-2011,The Artist,YES,15000000.00,204878.00,7.90,"Comedy, Drama, Romance",0,1,1,10,6,12,tt1655442,1,1,0,0,PG-13,89,
-2011,The Descendants,NO,20000000.00,1190096.00,7.30,"Comedy, Drama",0,1,0,5,5,3,tt1033575,0,0,0,0,R,84,
-2011,Extremely Loud & Incredibly Close,NO,40000000.00,,6.90,"Adventure, Drama, Mystery",0,0,0,2,0,0,tt0477302,0,0,0,0,PG-13,46,
-2011,The Help,NO,25000000.00,26044590.00,8.10,Drama,1,0,0,4,5,5,tt1454029,0,0,1,1,PG-13,62,
-2011,Hugo,NO,150000000.00,11364505.00,7.50,"Adventure, Drama, Family, Fantasy, Mystery, Romance",0,0,0,11,3,10,tt0970179,0,0,0,0,PG,83,
-2011,Midnight in Paris,NO,17000000.00,599003.00,7.70,"Comedy, Fantasy, Romance",0,0,0,4,4,1,tt1605783,0,0,0,0,PG-13,81,
-2011,Moneyball,NO,50000000.00,19501302.00,7.60,"Biography, Drama, Sport",0,0,0,6,4,3,tt1210166,0,0,0,0,PG-13,87,
-2011,The Tree of Life,NO,32000000.00,493788.00,6.80,"Drama, Fantasy",0,0,0,3,0,0,tt0478304,0,0,0,0,PG-13,85,
-2011,War Horse,NO,66000000.00,14527972.00,7.20,"Drama, War",0,0,0,6,2,5,tt1568911,0,0,0,0,PG-13,72,
-2010,Black Swan,NO,13000000.00,1443809.00,8.00,"Drama, Thriller",1,0,0,5,4,12,tt0947798,0,0,0,0,R,79,
-2010,The Fighter,NO,25000000.00,12135468.00,7.90,"Biography, Drama, Sport",0,0,0,7,6,3,tt0964517,0,0,0,0,R,79,
-2010,Inception,NO,160000000.00,62785337.00,8.80,"Action, Adventure, Sci-Fi, Thriller",0,0,0,8,4,9,tt1375666,0,0,0,0,PG-13,74,
-2010,The Kids Are All Right,NO,3500000.00,491971.00,7.10,"Comedy, Drama, Romance",1,1,0,4,4,4,tt0842926,0,0,0,0,R,86,
-2010,The King's Speech,YES,15000000.00,355450.00,8.00,"Biography, Drama",0,0,1,12,7,14,tt1504320,1,1,1,0,R,88,
-2010,127 Hours,NO,18000000.00,264851.00,7.60,"Adventure, Biography, Drama, Thriller",0,0,0,6,3,9,tt1542344,0,0,0,0,R,82,
-2010,The Social Network,NO,40000000.00,22445653.00,7.70,"Biography, Drama",0,1,0,8,6,6,tt1285016,0,0,0,0,PG-13,95,
-2010,Toy Story 3,NO,200000000.00,110307189.00,8.30,"Animation, Adventure, Comedy, Family, Fantasy",0,0,0,5,1,3,tt0435761,1,0,0,0,G,92,
-2010,True Grit,NO,38000000.00,24850000.00,7.70,"Adventure, Drama, Western",0,0,0,10,0,8,tt1403865,0,0,0,0,PG-13,80,
-2010,Winter's Bone,NO,2000000.00,84887.00,7.20,Drama,1,0,0,4,1,0,tt1399683,0,0,0,0,R,90,
-2008,The Curious Case of Benjamin Button,NO,150000000.00,26853816.00,7.80,"Drama, Fantasy, Romance",1,0,0,13,5,11,tt0421715,0,0,0,0,PG-13,70,
-2008,Frost/Nixon,NO,25000000.00,180708.00,7.70,"Biography, Drama",0,0,0,5,5,7,tt0870111,0,0,0,0,R,80,
-2008,Milk,NO,20000000.00,1481155.00,7.60,"Biography, Drama, History, Romance",0,0,0,8,1,4,tt1013753,0,0,0,0,R,84,
-2008,The Reader,NO,32000000.00,2380376.00,7.60,"Drama, Romance",0,0,0,5,4,5,tt0976051,0,0,0,0,R,58,
-2008,Slumdog Millionaire,YES,15000000.00,360018.00,8.00,Drama,0,1,1,10,4,11,tt1010048,1,1,1,1,R,86,
-2007,Atonement,NO,30000000.00,796836.00,7.80,"Drama, Mystery, Romance, War",1,1,1,7,7,14,tt0783233,0,0,0,0,R,85,
-2007,Juno,NO,7500000.00,413869.00,7.50,"Comedy, Drama",1,0,0,4,3,2,tt0467406,0,0,0,0,PG-13,81,
-2007,Michael Clayton,NO,25000000.00,719910.00,7.30,"Crime, Drama, Thriller",0,0,0,7,4,5,tt0465538,0,0,0,0,R,82,
-2007,No Country for Old Men,YES,25000000.00,1226333.00,8.10,"Crime, Drama, Thriller",0,0,0,8,4,9,tt0477348,1,1,1,0,R,91,
-2007,There Will Be Blood,NO,25000000.00,302845.00,8.10,"Drama, History",0,0,0,8,2,9,tt0469494,0,0,0,0,R,92,
-2006,Babel,NO,25000000.00,389351.00,7.50,Drama,0,1,0,7,7,7,tt0449467,0,0,0,0,R,69,
-2006,The Departed,YES,90000000.00,26887467.00,8.50,"Crime, Drama, Thriller",0,0,0,5,6,6,tt0407887,0,1,0,0,R,85,
-2006,Letters from Iwo Jima,NO,19000000.00,122548.00,7.90,"Drama, History, War",0,0,0,4,2,0,tt0498380,0,0,0,0,R,89,
-2006,Little Miss Sunshine,NO,8000000.00,370782.00,7.80,"Comedy, Drama",1,0,0,4,2,6,tt0449059,1,0,1,0,R,80,
-2006,The Queen,NO,9800000.00,122014.00,7.30,"Biography, Drama",1,0,1,6,4,10,tt0436697,0,0,0,0,PG-13,91,
-2005,Brokeback Mountain,NO,14000000.00,547425.00,7.70,"Drama, Romance",0,1,1,8,7,9,tt0388795,1,1,0,0,R,87,
-2005,Capote,NO,7000000.00,324857.00,7.40,"Biography, Crime, Drama, History",1,0,0,5,1,5,tt0379725,0,0,0,0,R,88,
-2005,Crash,YES,6500000.00,342709.00,7.80,"Crime, Drama, Thriller",1,0,0,6,2,9,tt0375679,0,0,1,1,R,69,
-2005,"Good Night, and Good Luck.",NO,7500000.00,421446.00,7.50,"Biography, Drama, History",0,0,0,6,4,6,tt0433383,0,0,0,0,PG,80,
-2005,Munich,NO,70000000.00,6040860.00,7.60,"Drama, Thriller",0,0,0,5,2,0,tt0408306,0,0,0,0,R,74,
-2004,The Aviator,NO,110000000.00,858021.00,7.50,"Biography, Drama, History",0,1,1,11,6,14,tt0338751,1,0,0,0,PG-13,77,
-2004,Finding Neverland,NO,25000000.00,220524.00,7.70,"Biography, Drama, Family",0,0,0,7,5,11,tt0308644,0,0,0,0,PG,67,
-2004,Million Dollar Baby,YES,30000000.00,179953.00,8.10,"Drama, Sport",1,0,0,7,5,0,tt0405159,0,1,0,0,PG-13,86,
-2004,Ray,NO,40000000.00,20039730.00,7.70,"Biography, Drama, Music",0,0,0,6,2,4,tt0350258,0,0,0,1,PG-13,73,
-2004,Sideways,NO,12000000.00,207042.00,7.50,"Comedy, Drama, Romance",0,1,0,5,7,1,tt0375063,0,0,1,0,R,94,
-2003,The Lord of the Rings: The Return of the King,YES,94000000.00,72629713.00,8.90,"Adventure, Drama, Fantasy",0,1,1,11,4,14,tt0167260,1,1,1,0,PG-13,94,
-2003,Lost in Translation,NO,4000000.00,925087.00,7.80,Drama,1,1,0,4,5,8,tt0335266,0,0,0,0,R,89,
-2003,Master and Commander: The Far Side of the World,NO,150000000.00,,7.40,"Action, Adventure, Drama, History, War",0,0,0,10,3,8,tt0311113,0,0,0,0,PG-13,81,
-2003,Mystic River,NO,25000000.00,640815.00,8.00,"Crime, Drama, Mystery, Thriller",0,0,0,6,5,4,tt0327056,0,0,0,0,R,84,
-2003,Seabiscuit,NO,87000000.00,20854735.00,7.30,"Drama, History, Sport",0,0,0,7,2,0,tt0329575,0,0,0,0,PG-13,72,
-2002,Chicago,YES,45000000.00,2074929.00,7.20,"Comedy, Crime, Musical",0,1,0,13,8,12,tt0299658,1,1,0,0,PG-13,82,
-2002,Gangs of New York,NO,100000000.00,9496870.00,7.50,"Crime, Drama",0,0,0,10,5,12,tt0217505,0,0,0,0,R,72,
-2002,The Hours,NO,25000000.00,338622.00,7.60,"Drama, Romance",1,1,0,9,7,11,tt0274558,0,0,0,0,PG-13,81,
-2002,The Lord of the Rings: The Two Towers,NO,94000000.00,727645.00,8.70,"Adventure, Drama, Fantasy",0,0,0,6,2,11,tt0167261,0,0,0,0,PG-13,88,
-2002,The Pianist,NO,35000000.00,2456117.00,8.50,"Biography, Drama, War",0,0,1,7,3,7,tt0253474,0,0,0,0,R,85,
-2001,A Beautiful Mind,YES,58000000.00,2501096.00,8.20,"Biography, Drama",0,1,0,8,6,5,tt0268978,0,1,0,0,PG-13,72,
-2001,Gosford Park,NO,19800000.00,3395759.00,7.30,"Comedy, Drama, Mystery",1,0,0,7,5,9,tt0280707,0,0,0,0,R,90,
-2001,In the Bedroom,NO,1700000.00,93972.00,7.50,"Crime, Drama",0,0,0,5,3,2,tt0247425,0,0,0,0,R,86,
-2001,The Lord of the Rings: The Fellowship of the Ring,NO,93000000.00,47211490.00,8.80,"Adventure, Drama, Fantasy",0,0,1,13,4,14,tt0120737,0,0,0,0,PG-13,92,
-2001,Moulin Rouge,NO,50000000.00,71614.00,7.60,"Drama, Musical, Romance",1,1,0,8,6,12,tt0203009,1,0,0,0,PG-13,66,
-2000,Chocolat,NO,25000000.00,3093590.00,7.30,"Drama, Romance",0,0,0,5,4,8,tt0241303,0,0,0,0,PG-13,64,
-2000,"Crouching Tiger, Hidden Dragon",NO,17000000.00,663205.00,7.90,"Action, Adventure, Fantasy, Romance",0,0,1,10,3,14,tt0190332,0,1,0,0,PG-13,93,
-2000,Erin Brockovich,NO,52000000.00,28138465.00,7.30,"Biography, Drama",1,0,0,5,4,6,tt0195685,0,0,0,0,R,73,
-2000,Gladiator,YES,103000000.00,34819017.00,8.50,"Action, Adventure, Drama",0,1,1,12,5,15,tt0172495,1,0,0,0,R,64,
-2000,Traffic,NO,48000000.00,184725.00,7.60,"Crime, Drama, Thriller",0,0,0,5,5,4,tt0181865,0,0,0,0,R,86,
-1999,American Beauty,YES,15000000.00,861531.00,8.40,"Drama, Romance",0,1,1,8,6,14,tt0169547,1,1,1,,,,
-1999,The Cider House Rules,NO,24000000.00,110098.00,7.40,"Drama, Romance",0,0,0,7,2,1,tt0124315,0,0,0,,,,
-1999,The Green Mile,NO,60000000.00,18017152.00,8.50,"Crime, Drama, Fantasy, Mystery",0,0,0,4,1,0,tt0120689,0,0,0,,,,
-1999,The Insider,NO,90000000.00,6712361.00,7.90,"Biography, Drama, Thriller",0,0,0,7,5,1,tt0140352,0,0,0,,,,
-1999,The Sixth Sense,NO,40000000.00,26681262.00,8.10,"Drama, Mystery, Thriller",0,0,0,6,2,4,tt0167404,0,0,0,,,,
-1998,Elizabeth,NO,30000000.00,275131.00,7.50,"Biography, Drama, History",1,0,0,7,3,12,tt0127536,0,0,0,,,,
-1998,Life Is Beautiful,NO,20000000.00,63934.00,8.60,"Comedy, Drama, War",0,0,0,7,4,3,tt0118799,0,0,1,,,,1
-1998,Saving Private Ryan,NO,70000000.00,30576104.00,8.60,"Drama, War",0,1,0,11,5,10,tt0120815,1,1,0,,,,
-1998,Shakespeare in Love,YES,25000000.00,4224426.00,7.20,"Comedy, Drama, History, Romance",0,1,1,13,6,15,tt0138097,0,0,1,,,,
-1998,The Thin Red Line,NO,52000000.00,11362226.00,7.60,"Drama, War",0,0,0,7,0,0,tt0120863,0,0,0,,,,
-1997,As Good as It Gets,NO,50000000.00,12606928.00,7.70,"Comedy, Drama, Romance",0,1,0,7,6,0,tt0119822,0,0,1,,,,
-1997,The Full Monty,NO,3500000.00,2914175.00,7.20,"Comedy, Drama",0,0,1,4,1,12,tt0119164,0,0,0,,,,
-1997,Good Will Hunting,NO,10000000.00,10261471.00,8.30,Drama,0,0,0,9,4,0,tt0119217,0,0,0,,,,
-1997,L.A. Confidential,NO,35000000.00,5211198.00,8.30,"Crime, Drama, Mystery, Thriller",0,0,0,9,5,12,tt0119488,0,0,0,,,,
-1997,Titanic,YES,200000000.00,28638131.00,7.70,"Drama, Romance",0,1,0,14,8,10,tt0120338,1,1,0,,,,
-1995,Apollo 13,NO,52000000.00,200645.00,7.60,"Adventure, Drama, History",0,0,0,9,4,5,tt0112384,1,1,0,,,,
-1995,Babe,NO,30000000.00,8742545.00,6.80,"Comedy, Drama, Family",1,1,0,7,1,4,tt0112431,0,0,0,,,,
-1995,Braveheart,YES,72000000.00,9938276.00,8.40,"Biography, Drama, History, War",0,0,0,10,4,7,tt0112573,0,0,0,,,,
-1995,The Postman (Il Postino),NO,3000000.00,,7.80,"Biography, Comedy, Drama, Romance",0,0,1,5,3,5,tt0110877,0,0,0,,,,
-1995,Sense and Sensibility,NO,16000000.00,,7.70,"Drama, Romance",0,1,1,7,6,12,tt0114388,0,0,0,,,,
-1994,Forrest Gump,YES,55000000.00,24450602.00,8.80,"Comedy, Drama",0,1,0,13,7,8,tt0109830,1,1,1,,,,
-1994,Four Weddings and a Funeral,NO,4400000.00,,7.10,"Comedy, Drama, Romance",0,0,1,2,4,11,tt0109831,0,0,0,,,,
-1994,Pulp Fiction,NO,8000000.00,9311882.00,8.90,"Crime, Drama",0,0,0,7,6,9,tt0110912,0,0,0,,,,
-1994,Quiz Show,NO,31000000.00,757714.00,7.50,"Biography, Drama, History",0,0,0,4,4,3,tt0110932,0,0,0,,,,
-1994,The Shawshank Redemption,NO,25000000.00,727327.00,9.30,"Crime, Drama",0,0,0,7,2,0,tt0111161,0,0,0,,,,
-1993,The Fugitive,NO,44000000.00,23758855.00,7.80,"Action, Crime, Drama, Mystery, Thriller",0,0,0,7,3,4,tt0106977,0,0,0,,,,
-1993,In the Name of the Father,NO,13000000.00,,8.10,"Biography, Drama",,0,0,7,4,2,tt0107207,0,0,0,,,,
-1993,The Piano,NO,7000000.00,,7.60,"Drama, Music, Romance",1,0,0,8,6,10,tt0107822,0,0,0,,,,
-1993,The Remains of the Day,NO,15000000.00,,7.90,"Drama, Romance",0,0,0,8,5,6,tt0107943,0,0,0,,,,
-1993,Schindler's List,YES,22000000.00,656636.00,8.90,"Biography, Drama, History",0,1,1,12,6,13,tt0108052,1,1,0,,,,
-1992,The Crying Game,NO,2300000.00,,7.30,"Crime, Drama, Romance, Thriller",0,0,0,6,1,7,tt0104036,1,0,0,,,,
-1992,A Few Good Men,NO,40000000.00,,7.60,"Drama, Thriller",0,0,0,4,5,0,tt0104257,0,0,0,,,,
-1992,Howards End,NO,,23840.00,7.50,"Drama, Romance",1,0,1,9,4,11,tt0104454,0,0,0,,,,
-1992,Scent of a Woman,NO,31000000.00,357468.00,8.00,Drama,0,1,0,4,4,1,tt0105323,0,0,0,,,,
-1992,Unforgiven,YES,14400000.00,15018007.00,8.30,"Drama, Western",0,0,0,9,4,6,tt0105695,0,1,0,,,,
-1991,Beauty and the Beast,NO,,,,"Family, Fantasy, Musical, Romance",0,0,0,0,0,0,tt2771200,0,0,0,,,,
-1991,Bugsy,NO,30000000.00,140358.00,6.80,"Biography, Crime, Drama",0,1,0,10,8,0,tt0101516,0,0,0,,,,
-1991,JFK,NO,40000000.00,5223658.00,8.00,"Drama, History, Thriller",1,0,0,8,4,4,tt0102138,0,0,0,,,,
-1991,The Prince of Tides,NO,30000000.00,,6.70,"Drama, Romance",0,0,0,7,3,0,tt0102713,0,0,0,,,,
-1991,The Silence of the Lambs,YES,19000000.00,13766814.00,8.60,"Crime, Drama, Thriller",1,0,0,7,5,9,tt0102926,1,1,0,,,,
-1990,Awakenings,NO,,417076.00,7.80,"Biography, Drama",0,0,0,3,1,0,tt0099077,0,0,0,,,,
-1990,Dances With Wolves,YES,22000000.00,598257.00,8.00,"Adventure, Drama, Western",0,1,0,12,6,9,tt0099348,1,1,0,,,,
-1990,Ghost,NO,22000000.00,12191540.00,7.00,"Drama, Fantasy, Romance, Thriller",0,0,0,5,4,4,tt0099653,0,0,0,,,,
-1990,"The Godfather, Part III",NO,54000000.00,19558558.00,7.60,"Crime, Drama",0,0,0,7,7,0,tt0099674,0,0,0,,,,
-1990,Good Fellas,NO,25000000.00,6368901.00,8.70,"Biography, Crime, Drama",0,0,1,6,5,7,tt0099685,0,0,0,,,,
-1989,Born on the Fourth of July,NO,14000000.00,172021.00,7.20,"Biography, Drama, War",0,1,0,8,5,2,tt0096969,0,1,0,,,,
-1989,Dead Poets Society,NO,16400000.00,340456.00,8.00,"Comedy, Drama",0,0,1,4,4,6,tt0097165,0,0,0,,,,
-1989,Driving Miss Daisy,YES,7500000.00,73745.00,7.40,Drama,0,1,0,9,3,4,tt0097239,1,0,0,,,,
-1989,Field of Dreams,NO,,531346.00,7.50,"Drama, Family, Fantasy, Sport",0,0,0,3,0,0,tt0097351,0,0,0,,,,
-1989,My Left Foot,NO,600000.00,,7.90,"Biography, Drama",0,0,0,5,2,5,tt0097937,0,0,0,,,,
-1988,The Accidental Tourist,NO,,97578.00,6.80,"Drama, Romance",0,0,0,4,2,1,tt0094606,0,0,0,,,,
-1988,Dangerous Liaisons,NO,14000000.00,,7.70,"Drama, Romance",1,0,0,7,0,10,tt0094947,0,0,0,,,,
-1988,Mississippi Burning,NO,15000000.00,225034.00,7.80,"Crime, Drama, History, Mystery, Thriller",0,0,0,7,4,5,tt0095647,0,0,0,,,,
-1988,Rain Man,YES,25000000.00,7005719.00,8.00,Drama,0,1,0,8,4,3,tt0095953,0,1,0,,,,
-1988,Working Girl,NO,28000000.00,,6.70,"Comedy, Drama, Romance",0,1,0,6,6,3,tt0096463,0,0,0,,,,
-1987,Broadcast News,NO,20000000.00,197542.00,7.20,"Comedy, Drama, Romance",0,0,0,7,5,0,tt0092699,0,0,0,,,,
-1987,Fatal Attraction,NO,14000000.00,7602740.00,6.90,"Drama, Thriller",0,0,0,6,4,3,tt0093010,0,0,0,,,,
-1987,Hope and Glory,NO,,25497.00,7.40,"Comedy, Drama, Romance",0,1,0,5,3,13,tt0093209,0,0,0,,,,
-1987,The Last Emperor,YES,23000000.00,3398662.00,7.80,"Biography, Drama, History",0,1,1,9,5,11,tt0093389,0,1,0,,,,
-1987,Moonstruck,NO,15000000.00,127599.00,7.10,"Comedy, Drama, Romance",1,0,0,6,5,4,tt0093565,0,0,0,,,,
-1986,Children of a Lesser God,NO,,1909084.00,7.20,"Drama, Romance",0,0,0,5,3,1,tt0090830,0,0,0,,,,
-1986,Hannah and Her Sisters,NO,6400000.00,1265826.00,8.00,"Comedy, Drama",1,1,0,7,5,8,tt0091167,0,0,0,,,,
-1986,The Mission,NO,24500000.00,40366.00,7.50,"Adventure, Drama, History",0,0,0,7,5,11,tt0091530,0,0,0,,,,
-1986,Platoon,YES,6000000.00,241080.00,8.10,"Drama, War",0,1,0,8,4,3,tt0091763,0,1,0,,,,
-1986,A Room with a View,NO,3000000.00,42970.00,7.40,"Drama, Romance",1,0,1,8,3,14,tt0091867,0,0,0,,,,
-1984,Amadeus,YES,18000000.00,86764.00,8.30,"Biography, Drama, History, Music",0,1,0,11,6,9,tt0086879,0,1,0,,,,
-1984,The Killing Fields,NO,,32181.00,7.90,"Biography, Drama, History, War",0,0,1,7,6,13,tt0087553,0,0,0,,,,
-1984,A Passage to India,NO,16000000.00,84580.00,7.40,"Adventure, Drama, History",1,0,0,11,5,9,tt0087892,0,0,0,,,,
-1984,Places in the Heart,NO,,,7.30,Drama,1,0,0,7,3,0,tt0087921,0,0,0,,,,
-1984,A Soldier's Story,NO,6000000.00,156383.00,7.20,"Crime, Drama, Mystery, War",0,0,0,3,3,0,tt0088146,0,0,0,,,,
-1983,The Big Chill,NO,,56968.00,7.20,"Comedy, Drama",0,0,0,3,2,1,tt0085244,0,0,0,,,,
-1983,The Dresser,NO,,43132.00,7.70,Drama,0,0,0,5,5,7,tt0085461,0,0,0,,,,
-1983,The Right Stuff,NO,27000000.00,1601167.00,7.90,"Adventure, Biography, Drama, History",0,0,0,8,1,0,tt0086197,0,0,0,,,,
-1983,Tender Mercies,NO,,46977.00,7.40,"Drama, Music",0,0,0,5,5,0,tt0086423,0,0,0,,,,
-1983,Terms of Endearment,YES,8000000.00,3498813.00,7.40,"Comedy, Drama",1,1,0,11,6,1,tt0086425,0,1,0,,,,
-1982,E.T. The Extra-Terrestrial,NO,10500000.00,14223110.00,7.90,"Family, Sci-Fi",1,1,0,9,5,12,tt0083866,0,0,0,,,,
-1982,Gandhi,YES,22000000.00,131153.00,8.10,"Biography, Drama, History",0,0,1,11,5,16,tt0083987,0,1,0,,,,
-1982,Missing,NO,,,7.80,"Biography, Drama, History, Mystery, Thriller",0,0,1,4,5,7,tt0084335,0,0,0,,,,
-1982,Tootsie,NO,22000000.00,5540470.00,7.40,"Comedy, Drama, Romance",0,1,0,10,5,9,tt0084805,0,0,0,,,,
-1982,The Verdict,NO,16000000.00,,7.80,Drama,0,0,0,5,5,0,tt0084855,0,0,0,,,,
-1981,Atlantic City,NO,7200000.00,,7.40,"Crime, Drama, Romance",0,0,0,5,3,4,tt0080388,0,0,0,,,,
-1981,Chariots of Fire,YES,5500000.00,68907.00,7.20,"Biography, Drama, Sport",0,0,1,7,1,11,tt0082158,0,0,0,,,,
-1981,On Golden Pond,NO,,89213.00,7.70,Drama,1,1,0,10,6,6,tt0082846,0,0,0,,,,
-1981,Raiders of the Lost Ark,NO,18000000.00,1673731.00,8.50,"Action, Adventure",0,0,0,9,1,7,tt0082971,0,0,0,,,,
-1981,Reds,NO,35000000.00,2325029.00,7.50,"Biography, Drama, History, Romance",0,0,0,12,7,6,tt0082979,0,1,0,,,,
-1980,Coal Miner's Daughter,NO,,3366443.00,7.50,"Biography, Drama, Music, Musical",1,1,0,7,4,2,tt0080549,0,0,0,,,,
-1980,The Elephant Man,NO,5000000.00,,8.20,"Biography, Drama",0,0,1,8,4,7,tt0080678,0,0,0,,,,
-1980,Ordinary People,YES,6000000.00,,7.80,Drama,0,1,0,6,8,2,tt0081283,0,1,0,,,,
-1980,Raging Bull,NO,18000000.00,13568.00,8.20,"Biography, Drama, Sport",0,0,0,8,7,4,tt0081398,0,0,0,,,,
-1980,Tess,NO,12000000.00,,7.30,"Drama, Romance",0,0,0,6,4,3,tt0080009,0,0,0,,,,
-1979,All That Jazz,NO,,86229.00,7.80,"Comedy, Drama, Music, Musical",0,0,0,9,1,6,tt0078754,0,0,0,,,,
-1979,Apocalypse Now,NO,31500000.00,96992.00,8.50,"Drama, War",0,0,0,8,4,9,tt0078788,0,0,0,,,,
-1979,Breaking Away,NO,2300000.00,17702.00,7.70,"Comedy, Drama, Romance, Sport",0,1,0,5,4,1,tt0078902,0,0,0,,,,
-1979,Kramer vs. Kramer,YES,8000000.00,,7.80,Drama,0,1,0,9,8,6,tt0079417,0,1,0,,,,
-1979,Norma Rae,NO,,,7.30,Drama,1,0,0,4,3,0,tt0079638,0,0,0,,,,
-1978,Coming Home,NO,3000000.00,,7.30,"Drama, Romance, War",1,0,0,8,6,0,tt0077362,0,0,0,,,,
-1978,The Deer Hunter,YES,15000000.00,,8.20,"Drama, War",0,0,0,9,6,9,tt0077416,0,1,0,,,,
-1978,Heaven Can Wait,NO,,4192799.00,6.90,"Comedy, Fantasy, Romance, Sport",0,1,0,9,3,0,tt0077663,0,0,0,,,,
-1978,Midnight Express,NO,1800000.00,,7.70,"Biography, Crime, Drama, Thriller",0,1,1,6,8,6,tt0077928,0,0,0,,,,
-1978,An Unmarried Woman,NO,,,7.20,"Comedy, Drama, Romance",1,0,0,3,5,1,tt0078444,0,0,0,,,,
-1977,Annie Hall,YES,4000000.00,,8.10,"Comedy, Romance",0,0,1,5,5,6,tt0075686,0,1,0,,,,
-1977,The Goodbye Girl,NO,,,7.40,"Comedy, Drama, Romance",0,1,0,5,5,3,tt0076095,0,0,0,,,,
-1977,Julia,NO,7840000.00,,7.40,Drama,1,0,1,11,7,10,tt0076245,0,0,0,,,,
-1977,Star Wars,NO,11000000.00,35906661.00,8.70,"Action, Adventure, Fantasy, Sci-Fi",0,0,0,11,4,6,tt0076759,0,0,0,,,,
-1977,The Turning Point,NO,,,8.40,"Documentary, News",0,0,0,0,0,0,tt5929776,0,0,0,,,,
-1975,Barry Lyndon,NO,11000000.00,,8.10,"Adventure, Drama, History, War",0,0,0,7,2,5,tt0072684,0,0,0,,,,
-1975,Dog Day Afternoon,NO,1800000.00,,8.00,"Biography, Crime, Drama, Thriller",1,0,1,6,7,6,tt0072890,0,0,0,,,,
-1975,Jaws,NO,8000000.00,7061513.00,8.00,"Adventure, Drama, Thriller",0,0,0,4,4,7,tt0073195,0,0,0,,,,
-1975,Nashville,NO,2200000.00,,7.80,"Comedy, Drama, Music",0,0,0,5,11,5,tt0073440,0,0,0,,,,
-1975,One Flew over the Cuckoo's Nest,YES,4400000.00,99761.00,8.70,Drama,0,1,1,9,6,10,tt0073486,0,1,0,,,,
-1974,Chinatown,NO,6000000.00,,8.20,"Drama, Mystery, Thriller",0,1,0,11,7,11,tt0071315,0,0,0,,,,
-1974,The Conversation,NO,1600000.00,,7.90,"Drama, Mystery, Thriller",0,0,1,3,4,5,tt0071360,0,0,0,,,,
-1974,The Godfather Part II,YES,13000000.00,,9.00,"Crime, Drama",0,0,0,11,6,4,tt0071562,0,1,0,,,,
-1974,Lenny,NO,10000000.00,,,"Drama, Sport",0,0,0,0,0,0,tt2024521,0,0,0,,,,
-1974,The Towering Inferno,NO,14000000.00,,6.90,"Action, Drama, Thriller",0,0,0,8,5,4,tt0072308,0,0,0,,,,
-1973,American Graffiti,NO,777000.00,,7.50,"Comedy, Drama",0,1,0,5,4,1,tt0069704,0,0,0,,,,
-1973,Cries and Whispers,NO,400000.00,,8.20,Drama,1,0,0,5,1,2,tt0069467,0,0,0,,,,
-1973,The Exorcist,NO,12000000.00,8157666.00,8.00,Horror,1,1,0,10,7,1,tt0070047,0,0,0,,,,
-1973,The Sting,YES,5500000.00,,8.30,"Comedy, Crime, Drama",0,0,0,10,1,0,tt0070735,0,1,0,,,,
-1973,A Touch of Class,NO,,,6.50,"Comedy, Romance",0,0,0,5,5,2,tt0070819,0,0,0,,,,
-1972,Cabaret,NO,6000000.00,,7.90,"Drama, Musical",1,1,1,10,9,11,tt0068327,0,0,0,,,,
-1972,Deliverance,NO,2000000.00,,7.70,"Adventure, Drama, Thriller",0,0,0,3,5,3,tt0068473,0,0,0,,,,
-1972,The Emigrants,NO,,,8.00,"Drama, History",0,0,0,5,2,0,tt0067919,0,0,0,,,,
-1972,The Godfather,YES,6000000.00,302393.00,9.20,"Crime, Drama",0,1,0,11,7,5,tt0068646,0,1,0,,,,
-1972,Sounder,NO,,,7.70,"Drama, Family",1,0,0,4,2,2,tt0069303,0,0,0,,,,
-1971,A Clockwork Orange,NO,2200000.00,,8.30,"Crime, Drama, Sci-Fi",0,0,0,4,3,7,tt0066921,0,0,0,,,,
-1971,Fiddler on the Roof,NO,9000000.00,,8.00,"Drama, Family, Musical, Romance",0,1,0,8,4,3,tt0067093,0,0,0,,,,
-1971,The French Connection,YES,1800000.00,,7.80,"Action, Crime, Drama, Thriller",0,1,1,8,4,5,tt0067116,0,1,0,,,,
-1971,The Last Picture Show,NO,1300000.00,,8.10,Drama,0,0,0,8,6,6,tt0067328,0,0,0,,,,
-1971,Nicholas and Alexandra,NO,9000000.00,,7.30,"Biography, Drama, History, War",0,0,0,6,3,3,tt0067483,0,0,0,,,,
-1970,Airport,NO,10000000.00,,6.60,"Action, Drama, Thriller",0,0,0,10,4,1,tt0065377,0,0,0,,,,
-1970,Five Easy Pieces,NO,1600000.00,,7.50,Drama,0,0,0,4,5,0,tt0065724,0,0,0,,,,
-1970,Love Story,NO,2200000.00,,6.90,"Drama, Romance",1,1,0,7,7,0,tt0066011,0,0,0,,,,
-1970,M*A*S*H,NO,3500000.00,,7.60,"Comedy, Drama, War",0,1,0,5,6,6,tt0066026,0,0,0,,,,
-1970,Patton,YES,12000000.00,,8.00,"Biography, Drama, War",0,0,0,10,3,2,tt0066206,0,1,0,,,,
-1969,Anne of the Thousand Days,NO,,,7.60,"Biography, Drama, History",0,1,0,10,7,2,tt0064030,0,0,0,,,,
-1969,Butch Cassidy and the Sundance Kid,NO,6000000.00,,8.10,"Biography, Crime, Drama, Western",0,0,1,7,4,10,tt0064115,0,0,0,,,,
-1969,"Hello, Dolly!",NO,25000000.00,,7.20,"Adventure, Comedy, Musical, Romance",1,0,0,7,5,3,tt0064418,0,0,0,,,,
-1969,Midnight Cowboy,YES,3600000.00,,7.90,Drama,0,0,1,7,7,7,tt0064665,0,1,0,,,,
-1969,Z,NO,75000000.00,16328506.00,5.90,"Action, Adventure, Western",0,0,0,0,0,0,tt0386140,0,0,0,,,,
-1968,Funny Girl,NO,14100000.00,65560.00,7.50,"Biography, Comedy, Drama, Musical, Romance",1,0,0,8,4,3,tt0062994,0,0,0,,,,
-1968,The Lion in Winter,NO,,,8.10,"Biography, Drama, History",0,1,0,7,7,8,tt0063227,0,1,0,,,,
-1968,Oliver!,YES,10000000.00,,7.50,"Drama, Family, Musical",0,1,0,12,5,8,tt0063385,0,0,0,,,,
-1968,"Rachel, Rachel",NO,700000.00,,7.50,"Drama, Romance",1,0,0,4,2,1,tt0063483,0,0,0,,,,
-1968,Romeo and Juliet,NO,14500000.00,11133231.00,6.80,"Drama, Romance",0,0,0,1,0,7,tt0117509,0,0,0,,,,
-1967,Bonnie and Clyde,NO,2500000.00,,7.90,"Action, Biography, Crime, Drama",0,0,0,10,7,4,tt0061418,0,0,0,,,,
-1967,Doctor Dolittle,NO,71500000.00,29014324.00,5.30,"Comedy, Family, Fantasy",0,0,0,0,0,0,tt0118998,0,0,0,,,,
-1967,The Graduate,NO,3000000.00,,8.00,"Comedy, Drama",1,1,1,7,7,7,tt0061722,0,1,0,,,,
-1967,Guess Who's Coming to Dinner,NO,4000000.00,,7.80,"Comedy, Drama",0,0,0,10,7,3,tt0061735,0,0,0,,,,
-1967,In the Heat of the Night,YES,2000000.00,,8.00,"Crime, Drama, Mystery, Thriller",0,1,0,7,7,4,tt0061811,0,0,0,,,,
-1966,Alfie,NO,60000000.00,6218335.00,6.20,"Comedy, Drama, Romance",0,0,0,0,1,0,tt0375173,0,0,0,,,,
-1966,A Man for All Seasons,YES,2000000.00,,7.90,"Biography, Drama, History",0,1,1,8,5,7,tt0060665,0,1,0,,,,
-1966,The Russians Are Coming The Russians Are Coming,NO,,,7.10,"Comedy, War",0,1,0,4,5,2,tt0060921,0,0,0,,,,
-1966,The Sand Pebbles,NO,12000000.00,,7.70,"Adventure, Drama, Romance, War",0,0,0,8,8,0,tt0060934,0,0,0,,,,
-1966,Who's Afraid of Virginia Woolf?,NO,7500000.00,,8.10,Drama,1,0,1,13,7,3,tt0061184,0,0,0,,,,
-1965,Darling,NO,400000.00,,7.20,"Drama, Romance",1,0,0,5,3,6,tt0059084,0,0,0,,,,
-1965,Doctor Zhivago,NO,11000000.00,,8.00,"Drama, Romance, War",0,1,0,10,6,3,tt0059113,0,0,0,,,,
-1965,Ship of Fools,NO,,,7.20,"Drama, Romance, War",1,0,0,8,3,2,tt0059712,0,0,0,,,,
-1965,The Sound of Music,YES,8200000.00,,8.00,"Biography, Drama, Family, Musical, Romance",1,1,0,10,4,1,tt0059742,0,1,0,,,,
-1965,A Thousand Clowns,NO,,,7.60,"Comedy, Drama, Romance",0,0,0,4,3,0,tt0059798,0,0,0,,,,
-1964,Becket,NO,3000000.00,,8.00,"Biography, Drama, History",0,1,0,12,5,7,tt0057877,0,0,0,,,,
-1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,NO,1800000.00,11751.00,8.50,Comedy,0,0,1,4,0,7,tt0057012,0,0,0,,,,
-1964,Mary Poppins,NO,6000000.00,,7.80,"Comedy, Family, Fantasy, Musical",1,0,0,13,4,1,tt0058331,0,0,0,,,,
-1964,My Fair Lady,YES,17000000.00,,7.90,"Drama, Family, Musical, Romance",1,1,1,12,5,2,tt0058385,0,1,0,,,,
-1964,Zorba the Greek,NO,783000.00,,7.80,"Comedy, Drama",0,0,0,7,5,4,tt0057831,0,0,0,,,,
-1963,America America,NO,,,7.80,Drama,0,0,0,4,8,0,tt0056825,0,0,0,,,,
-1963,Cleopatra,NO,31115000.00,,7.00,"Biography, Drama, History, Romance",1,0,0,9,4,0,tt0056937,0,0,0,,,,
-1963,How the West Was Won,NO,15000000.00,,7.10,Western,1,0,0,8,0,0,tt0056085,0,0,0,,,,
-1963,Lilies of the Field,NO,240000.00,,7.70,Drama,0,0,0,5,4,2,tt0057251,0,0,0,,,,
-1963,Tom Jones,YES,1000000.00,,6.70,"Adventure, Comedy, History",0,1,1,10,7,6,tt0057590,0,1,0,,,,
-1962,Lawrence of Arabia,YES,15000000.00,20846.00,8.30,"Adventure, Biography, Drama, History, War",0,1,1,10,9,5,tt0056172,0,1,0,,,,
-1962,The Longest Day,NO,10000000.00,,7.80,"Action, Drama, History, War",0,0,0,5,2,0,tt0056197,0,0,0,,,,
-1962,Meredith Willson's The Music Man,NO,,,7.70,"Comedy, Musical, Romance",0,1,0,6,6,0,tt0056262,0,0,0,,,,
-1962,Mutiny on the Bounty,NO,25000000.00,,7.00,"Action, Adventure, Drama, History, Romance",0,0,0,0,0,0,tt0086993,0,0,0,,,,
-1962,To Kill a Mockingbird,NO,2000000.00,,8.30,"Crime, Drama",0,0,0,8,5,2,tt0056592,0,0,0,,,,
-1961,Fanny,NO,,,7.10,"Drama, Romance",1,0,0,5,4,0,tt0054866,0,0,0,,,,
-1961,The Guns of Navarone,NO,6000000.00,,7.60,"Action, Adventure, Drama, War",0,1,0,7,3,1,tt0054953,0,0,0,,,,
-1961,The Hustler,NO,2000000.00,,8.00,"Drama, Sport",0,0,1,9,4,3,tt0054997,0,0,0,,,,
-1961,Judgment at Nuremberg,NO,3000000.00,,8.30,"Drama, War",0,0,0,11,6,3,tt0055031,0,0,0,,,,
-1961,West Side Story,YES,6000000.00,,7.60,"Crime, Drama, Musical, Romance, Thriller",1,1,0,11,7,1,tt0055614,0,1,0,,,,
-1960,The Alamo,NO,107000000.00,9124701.00,6.00,"Drama, History, War, Western",0,0,0,0,0,0,tt0318974,0,0,0,,,,
-1960,The Apartment,YES,3000000.00,,8.30,"Comedy, Drama, Romance",0,1,1,10,4,3,tt0053604,0,1,0,,,,
-1960,Elmer Gantry,NO,3000000.00,,7.90,Drama,0,0,0,5,5,3,tt0053793,0,0,0,,,,
-1960,Sons and Lovers,NO,500000.00,,7.30,Drama,0,0,0,7,5,1,tt0054326,0,0,0,,,,
-1960,The Sundowners,NO,,,7.20,"Drama, Adventure",1,0,0,5,2,3,tt0054353,0,0,0,,,,
+Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Rate,Metascore
+2015,Spotlight,1,20000000.00,295009.00,8.10,"Crime, Drama, History",0,0,6,3,3,tt1895587,0,0,1,R,93
+2015,The Big Short,0,28000000.00,10531026.00,7.80,"Biography, Comedy, Drama, History",0,0,5,4,5,tt1596363,1,0,0,R,81
+2015,Bridge of Spies,0,40000000.00,15371203.00,7.60,"Drama, History, Thriller",0,0,6,1,9,tt3682448,0,0,0,PG-13,81
+2015,Brooklyn,0,11000000.00,187281.00,7.50,"Drama, Romance",0,0,3,1,6,tt2381111,0,0,0,PG-13,87
+2015,Mad Max: Fury Road,0,150000000.00,45428128.00,8.10,"Action, Adventure, Sci-Fi, Thriller",0,0,10,2,7,tt1392190,0,0,0,R,90
+2015,The Martian,0,108000000.00,54308575.00,8.10,"Adventure, Drama, Sci-Fi",1,0,7,3,6,tt3659388,0,0,0,PG-13,80
+2015,The Revenant,0,135000000.00,38000000.00,8.00,"Adventure, Drama, Thriller, Western",1,1,12,4,8,tt1663202,0,1,0,R,76
+2015,Room,0,13000000.00,1335563.00,8.20,Drama,0,0,4,3,2,tt3170832,0,0,0,R,86
+2014,Birdman or (The Unexpected Virtue of Ignorance),1,18000000.00,2471471.00,7.80,"Comedy, Drama, Romance",0,0,10,7,10,tt2562232,1,1,1,R,88
+2014,American Sniper,0,58800000.00,89269067.00,7.30,"Action, Biography, Drama, History, Thriller, War",0,0,6,0,2,tt2179136,0,0,0,R,72
+2014,Boyhood,0,4000000.00,1992448.00,7.90,Drama,1,1,6,5,5,tt1065073,0,0,0,R,100
+2014,The Grand Budapest Hotel,0,25000000.00,811166.00,8.10,"Adventure, Comedy, Drama",1,0,9,4,11,tt2278388,0,0,0,R,88
+2014,The Imitation Game,0,14000000.00,7932292.00,8.10,"Biography, Drama, Thriller, War",0,0,8,5,9,tt2084970,0,0,0,PG-13,73
+2014,Selma,0,20000000.00,11307394.00,7.50,"Biography, Drama, History",0,0,2,4,0,tt1020072,0,0,0,PG-13,89
+2014,The Theory of Everything,0,15000000.00,,7.70,"Biography, Drama, Romance",0,0,5,4,10,tt2980516,0,0,0,PG-13,72
+2014,Whiplash,0,3300000.00,,8.50,"Drama, Music",0,0,6,1,5,tt2582802,0,0,0,R,88
+2013,12 Years a Slave,1,20000000.00,923715.00,8.10,"Biography, Drama, History",1,1,9,7,11,tt2024544,1,0,0,R,96
+2013,American Hustle,0,40000000.00,740455.00,7.30,"Crime, Drama",1,0,10,7,10,tt1800241,0,0,1,R,90
+2013,Captain Phillips,0,55000000.00,26000000.00,7.80,"Biography, Drama, Thriller",0,0,6,4,9,tt1535109,0,0,0,PG-13,83
+2013,Dallas Buyers Club,0,5000000.00,260865.00,8.00,"Biography, Drama",0,0,6,2,0,tt0790636,0,0,0,R,84
+2013,Gravity,0,100000000.00,55785112.00,7.80,"Adventure, Drama, Sci-Fi, Thriller",0,0,10,4,11,tt1454468,1,1,0,PG-13,96
+2013,Her,0,23000000.00,,8.00,"Drama, Romance, Sci-Fi",0,0,5,3,0,tt1798709,0,0,0,R,90
+2013,Nebraska,0,12000000.00,1552426.00,7.70,"Adventure, Comedy, Drama",0,0,6,5,3,tt1821549,0,0,0,R,86
+2013,Philomena,0,12000000.00,,7.60,"Biography, Drama",0,0,4,3,5,tt2431286,0,0,0,PG-13,77
+2013,The Wolf of Wall Street,0,100000000.00,18361578.00,8.20,"Biography, Comedy, Crime, Drama",0,0,5,2,4,tt0993846,0,0,0,R,75
+2012,Argo,1,44500000.00,19458109.00,7.70,"Biography, Drama, History, Thriller",1,1,7,5,7,tt1024648,1,1,1,R,86
+2012,Amour,0,8900000.00,,7.90,"Drama, Romance",0,1,5,1,4,tt1602620,0,0,0,PG-13,94
+2012,Beasts of the Southern Wild,0,1800000.00,169702.00,7.30,"Drama, Fantasy",0,0,4,0,1,tt2125435,0,0,0,PG-13,86
+2012,Django Unchained,0,100000000.00,30688000.00,8.40,"Drama, Western",0,0,5,5,5,tt1853728,0,0,0,R,81
+2012,Les Misérables,0,61000000.00,28027000.00,7.60,"Drama, Musical, Romance",1,0,8,4,9,tt1707386,0,0,0,PG-13,63
+2012,Life of Pi,0,120000000.00,22451514.00,7.90,"Adventure, Drama, Fantasy",0,0,11,3,10,tt0454876,0,0,0,PG,79
+2012,Lincoln,0,65000000.00,21049406.00,7.40,"Biography, Drama, History, War",0,0,12,7,10,tt0443272,0,0,0,PG-13,86
+2012,Silver Linings Playbook,0,21000000.00,443003.00,7.80,"Comedy, Drama, Romance",0,0,8,4,3,tt1045658,0,0,0,R,81
+2012,Zero Dark Thirty,0,40000000.00,417150.00,7.40,"Drama, History, Thriller",0,0,5,4,6,tt1790885,0,0,0,R,95
+2011,The Artist,1,15000000.00,204878.00,7.90,"Comedy, Drama, Romance",1,1,10,6,12,tt1655442,1,1,0,PG-13,89
+2011,The Descendants,0,20000000.00,1190096.00,7.30,"Comedy, Drama",1,0,5,5,3,tt1033575,0,0,0,R,84
+2011,Extremely Loud & Incredibly Close,0,40000000.00,,6.90,"Adventure, Drama, Mystery",0,0,2,0,0,tt0477302,0,0,0,PG-13,46
+2011,The Help,0,25000000.00,26044590.00,8.10,Drama,0,0,4,5,5,tt1454029,0,0,1,PG-13,62
+2011,Hugo,0,150000000.00,11364505.00,7.50,"Adventure, Drama, Family, Fantasy, Mystery, Romance",0,0,11,3,10,tt0970179,0,0,0,PG,83
+2011,Midnight in Paris,0,17000000.00,599003.00,7.70,"Comedy, Fantasy, Romance",0,0,4,4,1,tt1605783,0,0,0,PG-13,81
+2011,Moneyball,0,50000000.00,19501302.00,7.60,"Biography, Drama, Sport",0,0,6,4,3,tt1210166,0,0,0,PG-13,87
+2011,The Tree of Life,0,32000000.00,493788.00,6.80,"Drama, Fantasy",0,0,3,0,0,tt0478304,0,0,0,PG-13,85
+2011,War Horse,0,66000000.00,14527972.00,7.20,"Drama, War",0,0,6,2,5,tt1568911,0,0,0,PG-13,72
+2010,Black Swan,0,13000000.00,1443809.00,8.00,"Drama, Thriller",0,0,5,4,12,tt0947798,0,0,0,R,79
+2010,The Fighter,0,25000000.00,12135468.00,7.90,"Biography, Drama, Sport",0,0,7,6,3,tt0964517,0,0,0,R,79
+2010,Inception,0,160000000.00,62785337.00,8.80,"Action, Adventure, Sci-Fi, Thriller",0,0,8,4,9,tt1375666,0,0,0,PG-13,74
+2010,The Kids Are All Right,0,3500000.00,491971.00,7.10,"Comedy, Drama, Romance",1,0,4,4,4,tt0842926,0,0,0,R,86
+2010,The King's Speech,1,15000000.00,355450.00,8.00,"Biography, Drama",0,1,12,7,14,tt1504320,1,1,1,R,88
+2010,127 Hours,0,18000000.00,264851.00,7.60,"Adventure, Biography, Drama, Thriller",0,0,6,3,9,tt1542344,0,0,0,R,82
+2010,The Social Network,0,40000000.00,22445653.00,7.70,"Biography, Drama",1,0,8,6,6,tt1285016,0,0,0,PG-13,95
+2010,Toy Story 3,0,200000000.00,110307189.00,8.30,"Animation, Adventure, Comedy, Family, Fantasy",0,0,5,1,3,tt0435761,1,0,0,G,92
+2010,True Grit,0,38000000.00,24850000.00,7.70,"Adventure, Drama, Western",0,0,10,0,8,tt1403865,0,0,0,PG-13,80
+2010,Winter's Bone,0,2000000.00,84887.00,7.20,Drama,0,0,4,1,0,tt1399683,0,0,0,R,90
+2008,The Curious Case of Benjamin Button,0,150000000.00,26853816.00,7.80,"Drama, Fantasy, Romance",0,0,13,5,11,tt0421715,0,0,0,PG-13,70
+2008,Frost/Nixon,0,25000000.00,180708.00,7.70,"Biography, Drama",0,0,5,5,7,tt0870111,0,0,0,R,80
+2008,Milk,0,20000000.00,1481155.00,7.60,"Biography, Drama, History, Romance",0,0,8,1,4,tt1013753,0,0,0,R,84
+2008,The Reader,0,32000000.00,2380376.00,7.60,"Drama, Romance",0,0,5,4,5,tt0976051,0,0,0,R,58
+2008,Slumdog Millionaire,1,15000000.00,360018.00,8.00,Drama,1,1,10,4,11,tt1010048,1,1,1,R,86
+2007,Atonement,0,30000000.00,796836.00,7.80,"Drama, Mystery, Romance, War",1,1,7,7,14,tt0783233,0,0,0,R,85
+2007,Juno,0,7500000.00,413869.00,7.50,"Comedy, Drama",0,0,4,3,2,tt0467406,0,0,0,PG-13,81
+2007,Michael Clayton,0,25000000.00,719910.00,7.30,"Crime, Drama, Thriller",0,0,7,4,5,tt0465538,0,0,0,R,82
+2007,No Country for Old Men,1,25000000.00,1226333.00,8.10,"Crime, Drama, Thriller",0,0,8,4,9,tt0477348,1,1,1,R,91
+2007,There Will Be Blood,0,25000000.00,302845.00,8.10,"Drama, History",0,0,8,2,9,tt0469494,0,0,0,R,92
+2006,Babel,0,25000000.00,389351.00,7.50,Drama,1,0,7,7,7,tt0449467,0,0,0,R,69
+2006,The Departed,1,90000000.00,26887467.00,8.50,"Crime, Drama, Thriller",0,0,5,6,6,tt0407887,0,1,0,R,85
+2006,Letters from Iwo Jima,0,19000000.00,122548.00,7.90,"Drama, History, War",0,0,4,2,0,tt0498380,0,0,0,R,89
+2006,Little Miss Sunshine,0,8000000.00,370782.00,7.80,"Comedy, Drama",0,0,4,2,6,tt0449059,1,0,1,R,80
+2006,The Queen,0,9800000.00,122014.00,7.30,"Biography, Drama",0,1,6,4,10,tt0436697,0,0,0,PG-13,91
+2005,Brokeback Mountain,0,14000000.00,547425.00,7.70,"Drama, Romance",1,1,8,7,9,tt0388795,1,1,0,R,87
+2005,Capote,0,7000000.00,324857.00,7.40,"Biography, Crime, Drama, History",0,0,5,1,5,tt0379725,0,0,0,R,88
+2005,Crash,1,6500000.00,342709.00,7.80,"Crime, Drama, Thriller",0,0,6,2,9,tt0375679,0,0,1,R,69
+2005,"Good Night, and Good Luck.",0,7500000.00,421446.00,7.50,"Biography, Drama, History",0,0,6,4,6,tt0433383,0,0,0,PG,80
+2005,Munich,0,70000000.00,6040860.00,7.60,"Drama, Thriller",0,0,5,2,0,tt0408306,0,0,0,R,74
+2004,The Aviator,0,110000000.00,858021.00,7.50,"Biography, Drama, History",1,1,11,6,14,tt0338751,1,0,0,PG-13,77
+2004,Finding Neverland,0,25000000.00,220524.00,7.70,"Biography, Drama, Family",0,0,7,5,11,tt0308644,0,0,0,PG,67
+2004,Million Dollar Baby,1,30000000.00,179953.00,8.10,"Drama, Sport",0,0,7,5,0,tt0405159,0,1,0,PG-13,86
+2004,Ray,0,40000000.00,20039730.00,7.70,"Biography, Drama, Music",0,0,6,2,4,tt0350258,0,0,0,PG-13,73
+2004,Sideways,0,12000000.00,207042.00,7.50,"Comedy, Drama, Romance",1,0,5,7,1,tt0375063,0,0,1,R,94
+2003,The Lord of the Rings: The Return of the King,1,94000000.00,72629713.00,8.90,"Adventure, Drama, Fantasy",1,1,11,4,14,tt0167260,1,1,1,PG-13,94
+2003,Lost in Translation,0,4000000.00,925087.00,7.80,Drama,1,0,4,5,8,tt0335266,0,0,0,R,89
+2003,Master and Commander: The Far Side of the World,0,150000000.00,,7.40,"Action, Adventure, Drama, History, War",0,0,10,3,8,tt0311113,0,0,0,PG-13,81
+2003,Mystic River,0,25000000.00,640815.00,8.00,"Crime, Drama, Mystery, Thriller",0,0,6,5,4,tt0327056,0,0,0,R,84
+2003,Seabiscuit,0,87000000.00,20854735.00,7.30,"Drama, History, Sport",0,0,7,2,0,tt0329575,0,0,0,PG-13,72
+2002,Chicago,1,45000000.00,2074929.00,7.20,"Comedy, Crime, Musical",1,0,13,8,12,tt0299658,1,1,0,PG-13,82
+2002,Gangs of New York,0,100000000.00,9496870.00,7.50,"Crime, Drama",0,0,10,5,12,tt0217505,0,0,0,R,72
+2002,The Hours,0,25000000.00,338622.00,7.60,"Drama, Romance",1,0,9,7,11,tt0274558,0,0,0,PG-13,81
+2002,The Lord of the Rings: The Two Towers,0,94000000.00,727645.00,8.70,"Adventure, Drama, Fantasy",0,0,6,2,11,tt0167261,0,0,0,PG-13,88
+2002,The Pianist,0,35000000.00,2456117.00,8.50,"Biography, Drama, War",0,1,7,3,7,tt0253474,0,0,0,R,85
+2001,A Beautiful Mind,1,58000000.00,2501096.00,8.20,"Biography, Drama",1,0,8,6,5,tt0268978,0,1,0,PG-13,72
+2001,Gosford Park,0,19800000.00,3395759.00,7.30,"Comedy, Drama, Mystery",0,0,7,5,9,tt0280707,0,0,0,R,90
+2001,In the Bedroom,0,1700000.00,93972.00,7.50,"Crime, Drama",0,0,5,3,2,tt0247425,0,0,0,R,86
+2001,The Lord of the Rings: The Fellowship of the Ring,0,93000000.00,47211490.00,8.80,"Adventure, Drama, Fantasy",0,1,13,4,14,tt0120737,0,0,0,PG-13,92
+2001,Moulin Rouge,0,50000000.00,71614.00,7.60,"Drama, Musical, Romance",1,0,8,6,12,tt0203009,1,0,0,PG-13,66
+2000,Chocolat,0,25000000.00,3093590.00,7.30,"Drama, Romance",0,0,5,4,8,tt0241303,0,0,0,PG-13,64
+2000,"Crouching Tiger, Hidden Dragon",0,17000000.00,663205.00,7.90,"Action, Adventure, Fantasy, Romance",0,1,10,3,14,tt0190332,0,1,0,PG-13,93
+2000,Erin Brockovich,0,52000000.00,28138465.00,7.30,"Biography, Drama",0,0,5,4,6,tt0195685,0,0,0,R,73
+2000,Gladiator,1,103000000.00,34819017.00,8.50,"Action, Adventure, Drama",1,1,12,5,15,tt0172495,1,0,0,R,64
+2000,Traffic,0,48000000.00,184725.00,7.60,"Crime, Drama, Thriller",0,0,5,5,4,tt0181865,0,0,0,R,86
+1999,American Beauty,1,15000000.00,861531.00,8.40,"Drama, Romance",1,1,8,6,14,tt0169547,1,1,1,R,86
+1999,The Cider House Rules,0,24000000.00,110098.00,7.40,"Drama, Romance",0,0,7,2,1,tt0124315,0,0,0,PG-13,75
+1999,The Green Mile,0,60000000.00,18017152.00,8.50,"Crime, Drama, Fantasy, Mystery",0,0,4,1,0,tt0120689,0,0,0,R,61
+1999,The Insider,0,90000000.00,6712361.00,7.90,"Biography, Drama, Thriller",0,0,7,5,1,tt0140352,0,0,0,R,84
+1999,The Sixth Sense,0,40000000.00,26681262.00,8.10,"Drama, Mystery, Thriller",0,0,6,2,4,tt0167404,0,0,0,PG-13,64
+1998,Elizabeth,0,30000000.00,275131.00,7.50,"Biography, Drama, History",0,0,7,3,12,tt0127536,0,0,0,R,75
+1998,Life Is Beautiful,0,20000000.00,63934.00,8.60,"Comedy, Drama, War",0,0,7,4,3,tt0118799,0,0,0,PG-13,59
+1998,Saving Private Ryan,0,70000000.00,30576104.00,8.60,"Drama, War",1,0,11,5,10,tt0120815,1,1,0,R,90
+1998,Shakespeare in Love,1,25000000.00,4224426.00,7.20,"Comedy, Drama, History, Romance",1,1,13,6,15,tt0138097,0,0,1,R,87
+1998,The Thin Red Line,0,52000000.00,11362226.00,7.60,"Drama, War",0,0,7,0,0,tt0120863,0,0,0,R,78
+1997,As Good as It Gets,0,50000000.00,12606928.00,7.70,"Comedy, Drama, Romance",1,0,7,6,0,tt0119822,0,0,0,PG-13,67
+1997,The Full Monty,0,3500000.00,2914175.00,7.20,"Comedy, Drama",0,1,4,1,12,tt0119164,0,0,1,R,75
+1997,Good Will Hunting,0,10000000.00,10261471.00,8.30,Drama,0,0,9,4,0,tt0119217,0,0,0,R,70
+1997,L.A. Confidential,0,35000000.00,5211198.00,8.30,"Crime, Drama, Mystery, Thriller",0,0,9,5,12,tt0119488,0,0,0,R,90
+1997,Titanic,1,200000000.00,28638131.00,7.70,"Drama, Romance",1,0,14,8,10,tt0120338,1,1,0,PG-13,74
+1995,Apollo 13,0,52000000.00,200645.00,7.60,"Adventure, Drama, History",0,0,9,4,5,tt0112384,1,1,1,PG,77
+1995,Babe,0,30000000.00,8742545.00,6.80,"Comedy, Drama, Family",1,0,7,1,4,tt0112431,0,0,0,G,83
+1995,Braveheart,1,72000000.00,9938276.00,8.40,"Biography, Drama, History, War",0,0,10,4,7,tt0112573,0,0,0,R,68
+1995,The Postman (Il Postino),0,3000000.00,,7.80,"Biography, Comedy, Drama, Romance",0,1,5,3,5,tt0110877,0,0,0,PG,81
+1995,Sense and Sensibility,0,16000000.00,,7.70,"Drama, Romance",1,1,7,6,12,tt0114388,0,0,0,PG,84
+1994,Forrest Gump,1,55000000.00,24450602.00,8.80,"Comedy, Drama",1,0,13,7,8,tt0109830,1,1,0,PG-13,82
+1994,Four Weddings and a Funeral,0,4400000.00,,7.10,"Comedy, Drama, Romance",0,1,2,4,11,tt0109831,0,0,0,R,81
+1994,Pulp Fiction,0,8000000.00,9311882.00,8.90,"Crime, Drama",0,0,7,6,9,tt0110912,0,0,0,R,94
+1994,Quiz Show,0,31000000.00,757714.00,7.50,"Biography, Drama, History",0,0,4,4,3,tt0110932,0,0,0,PG-13,88
+1994,The Shawshank Redemption,0,25000000.00,727327.00,9.30,"Crime, Drama",0,0,7,2,0,tt0111161,0,0,0,R,80
+1993,The Fugitive,0,44000000.00,23758855.00,7.80,"Action, Crime, Drama, Mystery, Thriller",0,0,7,3,4,tt0106977,0,0,0,PG-13,88
+1993,In the Name of the Father,0,13000000.00,,8.10,"Biography, Drama",0,0,7,4,2,tt0107207,0,0,0,R,84
+1993,The Piano,0,7000000.00,,7.60,"Drama, Music, Romance",0,0,8,6,10,tt0107822,0,0,0,R,89
+1993,The Remains of the Day,0,15000000.00,,7.90,"Drama, Romance",0,0,8,5,6,tt0107943,0,0,0,PG,84
+1993,Schindler's List,1,22000000.00,656636.00,8.90,"Biography, Drama, History",1,1,12,6,13,tt0108052,1,1,0,R,93
+1992,The Crying Game,0,2300000.00,,7.30,"Crime, Drama, Romance, Thriller",0,0,6,1,7,tt0104036,1,0,0,R,90
+1992,A Few Good Men,0,40000000.00,,7.60,"Drama, Thriller",0,0,4,5,0,tt0104257,0,0,0,R,62
+1992,Howards End,0,,23840.00,7.50,"Drama, Romance",0,1,9,4,11,tt0104454,0,0,0,PG,89
+1992,Scent of a Woman,0,31000000.00,357468.00,8.00,Drama,1,0,4,4,1,tt0105323,0,0,0,R,59
+1992,Unforgiven,1,14400000.00,15018007.00,8.30,"Drama, Western",0,0,9,4,6,tt0105695,0,1,0,R,82
+1991,Beauty and the Beast,0,,,,"Family, Fantasy, Musical, Romance",0,0,0,0,0,tt2771200,0,0,0,PG,
+1991,Bugsy,0,30000000.00,140358.00,6.80,"Biography, Crime, Drama",1,0,10,8,0,tt0101516,0,0,0,R,
+1991,JFK,0,40000000.00,5223658.00,8.00,"Drama, History, Thriller",0,0,8,4,4,tt0102138,0,0,0,R,72
+1991,The Prince of Tides,0,30000000.00,,6.70,"Drama, Romance",0,0,7,3,0,tt0102713,0,0,0,R,
+1991,The Silence of the Lambs,1,19000000.00,13766814.00,8.60,"Crime, Drama, Thriller",0,0,7,5,9,tt0102926,1,1,0,R,84
+1990,Awakenings,0,,417076.00,7.80,"Biography, Drama",0,0,3,1,0,tt0099077,0,0,0,PG-13,74
+1990,Dances With Wolves,1,22000000.00,598257.00,8.00,"Adventure, Drama, Western",1,0,12,6,9,tt0099348,1,1,0,PG-13,72
+1990,Ghost,0,22000000.00,12191540.00,7.00,"Drama, Fantasy, Romance, Thriller",0,0,5,4,4,tt0099653,0,0,0,PG-13,52
+1990,"The Godfather, Part III",0,54000000.00,19558558.00,7.60,"Crime, Drama",0,0,7,7,0,tt0099674,0,0,0,R,60
+1990,Good Fellas,0,25000000.00,6368901.00,8.70,"Biography, Crime, Drama",0,1,6,5,7,tt0099685,0,0,0,R,89
+1989,Born on the Fourth of July,0,14000000.00,172021.00,7.20,"Biography, Drama, War",1,0,8,5,2,tt0096969,0,1,0,R,75
+1989,Dead Poets Society,0,16400000.00,340456.00,8.00,"Comedy, Drama",0,1,4,4,6,tt0097165,0,0,0,PG,79
+1989,Driving Miss Daisy,1,7500000.00,73745.00,7.40,Drama,1,0,9,3,4,tt0097239,1,0,0,PG,81
+1989,Field of Dreams,0,,531346.00,7.50,"Drama, Family, Fantasy, Sport",0,0,3,0,0,tt0097351,0,0,0,PG,57
+1989,My Left Foot,0,600000.00,,7.90,"Biography, Drama",0,0,5,2,5,tt0097937,0,0,0,R,
+1988,The Accidental Tourist,0,,97578.00,6.80,"Drama, Romance",0,0,4,2,1,tt0094606,0,0,0,PG,53
+1988,Dangerous Liaisons,0,14000000.00,,7.70,"Drama, Romance",0,0,7,0,10,tt0094947,0,0,0,R,74
+1988,Mississippi Burning,0,15000000.00,225034.00,7.80,"Crime, Drama, History, Mystery, Thriller",0,0,7,4,5,tt0095647,0,0,0,R,65
+1988,Rain Man,1,25000000.00,7005719.00,8.00,Drama,1,0,8,4,3,tt0095953,0,1,0,R,65
+1988,Working Girl,0,28000000.00,,6.70,"Comedy, Drama, Romance",1,0,6,6,3,tt0096463,0,0,0,R,73
+1987,Broadcast News,0,20000000.00,197542.00,7.20,"Comedy, Drama, Romance",0,0,7,5,0,tt0092699,0,0,0,R,84
+1987,Fatal Attraction,0,14000000.00,7602740.00,6.90,"Drama, Thriller",0,0,6,4,3,tt0093010,0,0,0,R,67
+1987,Hope and Glory,0,,25497.00,7.40,"Comedy, Drama, Romance",1,0,5,3,13,tt0093209,0,0,0,PG-13,
+1987,The Last Emperor,1,23000000.00,3398662.00,7.80,"Biography, Drama, History",1,1,9,5,11,tt0093389,0,1,0,PG-13,76
+1987,Moonstruck,0,15000000.00,127599.00,7.10,"Comedy, Drama, Romance",0,0,6,5,4,tt0093565,0,0,0,PG,83
+1986,Children of a Lesser God,0,,1909084.00,7.20,"Drama, Romance",0,0,5,3,1,tt0090830,0,0,0,R,
+1986,Hannah and Her Sisters,0,6400000.00,1265826.00,8.00,"Comedy, Drama",1,0,7,5,8,tt0091167,0,0,0,PG-13,90
+1986,The Mission,0,24500000.00,40366.00,7.50,"Adventure, Drama, History",0,0,7,5,11,tt0091530,0,0,0,PG,
+1986,Platoon,1,6000000.00,241080.00,8.10,"Drama, War",1,0,8,4,3,tt0091763,0,1,0,R,
+1986,A Room with a View,0,3000000.00,42970.00,7.40,"Drama, Romance",0,1,8,3,14,tt0091867,0,0,0,R,80
+1985,The Color Purple,0,15000000.00,1710333.00,7.80,Drama,0,0,11,5,1,tt0088939,0,1,0,PG-13,78
+1985,Kiss of the Spider Woman,0,,55962.00,7.40,Drama,0,0,4,4,1,tt0089424,0,0,0,R,80
+1985,Out of Africa,1,31000000.00,3637290.00,7.20,"Biography, Drama, Romance",1,0,11,6,7,tt0089755,0,0,0,PG,
+1985,Prizzi's Honor,0,,,6.80,"Comedy, Crime, Drama, Romance",1,0,8,6,2,tt0089841,0,0,0,R,
+1985,Witness,0,12000000.00,4539990.00,7.40,"Crime, Drama, Romance, Thriller",0,0,8,6,7,tt0090329,0,0,0,R,76
+1984,Amadeus,1,18000000.00,86764.00,8.30,"Biography, Drama, History, Music",1,0,11,6,9,tt0086879,0,1,0,R,93
+1984,The Killing Fields,0,,32181.00,7.90,"Biography, Drama, History, War",0,1,7,6,13,tt0087553,0,0,0,R,
+1984,A Passage to India,0,16000000.00,84580.00,7.40,"Adventure, Drama, History",0,0,11,5,9,tt0087892,0,0,0,PG,
+1984,Places in the Heart,0,,,7.30,Drama,0,0,7,3,0,tt0087921,0,0,0,PG,
+1984,A Soldier's Story,0,6000000.00,156383.00,7.20,"Crime, Drama, Mystery, War",0,0,3,3,0,tt0088146,0,0,0,PG,
+1983,The Big Chill,0,,56968.00,7.20,"Comedy, Drama",0,0,3,2,1,tt0085244,0,0,0,R,62
+1983,The Dresser,0,,43132.00,7.70,Drama,0,0,5,5,7,tt0085461,0,0,0,PG,
+1983,The Right Stuff,0,27000000.00,1601167.00,7.90,"Adventure, Biography, Drama, History",0,0,8,1,0,tt0086197,0,0,0,PG,
+1983,Tender Mercies,0,,46977.00,7.40,"Drama, Music",0,0,5,5,0,tt0086423,0,0,0,PG,
+1983,Terms of Endearment,1,8000000.00,3498813.00,7.40,"Comedy, Drama",1,0,11,6,1,tt0086425,0,1,0,PG,79
+1982,E.T. The Extra-Terrestrial,0,10500000.00,14223110.00,7.90,"Family, Sci-Fi",1,0,9,5,12,tt0083866,0,0,0,PG,91
+1982,Gandhi,1,22000000.00,131153.00,8.10,"Biography, Drama, History",0,1,11,5,16,tt0083987,0,1,0,PG,
+1982,Missing,0,,,7.80,"Biography, Drama, History, Mystery, Thriller",0,1,4,5,7,tt0084335,0,0,0,PG,
+1982,Tootsie,0,22000000.00,5540470.00,7.40,"Comedy, Drama, Romance",1,0,10,5,9,tt0084805,0,0,0,PG,87
+1982,The Verdict,0,16000000.00,,7.80,Drama,0,0,5,5,0,tt0084855,0,0,0,R,
+1981,Atlantic City,0,7200000.00,,7.40,"Crime, Drama, Romance",0,0,5,3,4,tt0080388,0,0,0,R,
+1981,Chariots of Fire,1,5500000.00,68907.00,7.20,"Biography, Drama, Sport",0,1,7,1,11,tt0082158,0,0,0,PG,
+1981,On Golden Pond,0,,89213.00,7.70,Drama,1,0,10,6,6,tt0082846,0,0,0,PG,
+1981,Raiders of the Lost Ark,0,18000000.00,1673731.00,8.50,"Action, Adventure",0,0,9,1,7,tt0082971,0,0,0,PG,85
+1981,Reds,0,35000000.00,2325029.00,7.50,"Biography, Drama, History, Romance",0,0,12,7,6,tt0082979,0,1,0,PG,
+1980,Coal Miner's Daughter,0,,3366443.00,7.50,"Biography, Drama, Music, Musical",1,0,7,4,2,tt0080549,0,0,0,PG,
+1980,The Elephant Man,0,5000000.00,,8.20,"Biography, Drama",0,1,8,4,7,tt0080678,0,0,0,PG,
+1980,Ordinary People,1,6000000.00,,7.80,Drama,1,0,6,8,2,tt0081283,0,1,0,R,85
+1980,Raging Bull,0,18000000.00,13568.00,8.20,"Biography, Drama, Sport",0,0,8,7,4,tt0081398,0,0,0,R,92
+1980,Tess,0,12000000.00,,7.30,"Drama, Romance",0,0,6,4,3,tt0080009,0,0,0,PG,
+1979,All That Jazz,0,,86229.00,7.80,"Comedy, Drama, Music, Musical",0,0,9,1,6,tt0078754,0,0,0,R,
+1979,Apocalypse Now,0,31500000.00,96992.00,8.50,"Drama, War",0,0,8,4,9,tt0078788,0,0,0,R,90
+1979,Breaking Away,0,2300000.00,17702.00,7.70,"Comedy, Drama, Romance, Sport",1,0,5,4,1,tt0078902,0,0,0,PG,
+1979,Kramer vs. Kramer,1,8000000.00,,7.80,Drama,1,0,9,8,6,tt0079417,0,1,0,PG,77
+1979,Norma Rae,0,,,7.30,Drama,0,0,4,3,0,tt0079638,0,0,0,PG,
+1978,Coming Home,0,3000000.00,,7.30,"Drama, Romance, War",0,0,8,6,0,tt0077362,0,0,0,R,
+1978,The Deer Hunter,1,15000000.00,,8.20,"Drama, War",0,0,9,6,9,tt0077416,0,1,0,R,73
+1978,Heaven Can Wait,0,,4192799.00,6.90,"Comedy, Fantasy, Romance, Sport",1,0,9,3,0,tt0077663,0,0,0,PG,
+1978,Midnight Express,0,1800000.00,,7.70,"Biography, Crime, Drama, Thriller",1,1,6,8,6,tt0077928,0,0,0,R,
+1978,An Unmarried Woman,0,,,7.20,"Comedy, Drama, Romance",0,0,3,5,1,tt0078444,0,0,0,R,
+1977,Annie Hall,1,4000000.00,,8.10,"Comedy, Romance",0,1,5,5,6,tt0075686,0,1,0,PG,
+1977,The Goodbye Girl,0,,,7.40,"Comedy, Drama, Romance",1,0,5,5,3,tt0076095,0,0,0,PG,
+1977,Julia,0,7840000.00,,7.40,Drama,0,1,11,7,10,tt0076245,0,0,0,PG,
+1977,Star Wars,0,11000000.00,35906661.00,8.70,"Action, Adventure, Fantasy, Sci-Fi",0,0,11,4,6,tt0076759,0,0,0,PG,92
+1977,The Turning Point,0,,,8.40,"Documentary, News",0,0,0,0,0,tt5929776,0,0,0,PG,63
+1975,Barry Lyndon,0,11000000.00,,8.10,"Adventure, Drama, History, War",0,0,7,2,5,tt0072684,0,0,0,PG,
+1975,Dog Day Afternoon,0,1800000.00,,8.00,"Biography, Crime, Drama, Thriller",0,1,6,7,6,tt0072890,0,0,0,R,
+1975,Jaws,0,8000000.00,7061513.00,8.00,"Adventure, Drama, Thriller",0,0,4,4,7,tt0073195,0,0,0,PG,86
+1975,Nashville,0,2200000.00,,7.80,"Comedy, Drama, Music",0,0,5,11,5,tt0073440,0,0,0,R,
+1975,One Flew over the Cuckoo's Nest,1,4400000.00,99761.00,8.70,Drama,1,1,9,6,10,tt0073486,0,1,0,R,79
