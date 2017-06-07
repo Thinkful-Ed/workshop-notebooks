@@ -1,6 +1,6 @@
 # Docker demo image, as used on try.jupyter.org and tmpnb.org
 
-FROM jupyter/scipy-notebook
+FROM jupyter/scipy-notebook:c33a7dc0eece
 
 USER root
 RUN apt-get update \
