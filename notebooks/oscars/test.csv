@@ -1,35 +1,35 @@
-Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Woman as lead,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Racial,Rate,Metascore
-2016,Arrival,0,47000000.00,24000000.00,8.10,"Drama, Mystery, Sci-Fi, Thriller",1,0,0,8,2,9,tt2543164,0,0,0,0,PG-13,81
-2016,Fences,0,24000000.00,129462.00,7.50,Drama,0,0,0,4,2,1,tt2671706,0,0,0,1,PG-13,79
-2016,Hacksaw Ridge,0,40000000.00,15190758.00,8.30,"Drama, History, War",0,0,0,6,3,5,tt2119532,0,0,0,0,R,71
-2016,Hell or High Water,0,12000000.00,621329.00,7.70,"Action, Crime, Drama, Western",1,0,0,4,3,3,tt2582782,0,0,0,0,R,88
-2016,Hidden Figures,0,25000000.00,515499.00,7.90,"Biography, Drama, History",1,0,0,3,2,1,tt4846340,0,0,1,1,PG,74
-2016,La La Land,0,30000000.00,4102091.00,8.50,"Comedy, Drama, Musical, Romance",0,1,1,14,7,11,tt3783958,1,1,0,0,PG-13,93
-2016,Lion,0,12000000.00,159148.00,8.00,Drama,0,0,0,6,4,5,tt3741834,0,0,0,1,PG-13,69
-2016,Manchester by the Sea,0,8500000.00,256498.00,8.10,Drama,0,0,0,6,5,6,tt4034228,0,0,0,0,R,96
-2016,Moonlight,1,5000000.00,402075.00,8.00,Drama,0,1,0,8,6,4,tt4975722,0,0,0,1,R,99
-2009,Avatar,0,237000000.00,77025481.00,7.80,"Action, Adventure, Fantasy, Sci-Fi",0,1,0,9,4,8,tt0499549,0,0,0,0,PG-13,83
-2009,The Blind Side,0,29000000.00,34119372.00,7.70,"Biography, Drama, Sport",1,0,0,2,1,0,tt0878804,0,0,0,1,PG-13,53
-2009,District 9,0,30000000.00,37354308.00,8.00,"Action, Sci-Fi, Thriller",0,0,0,4,1,7,tt1136608,0,0,0,0,R,81
-2009,An Education,0,4500000.00,,7.30,Drama,1,0,0,3,1,8,tt1174732,0,0,0,0,PG-13,85
-2009,The Hurt Locker,1,15000000.00,145352.00,7.60,"Drama, History, Thriller, War",0,0,1,9,3,8,tt0887912,1,1,0,0,R,94
-2009,Inglourious Basterds,0,75000000.00,38054676.00,8.30,"Adventure, Drama, War",0,0,0,8,4,6,tt0361748,0,0,1,0,R,69
-2009,Precious: Based on the Novel 'Push' by Sapphire,0,10000000.00,10881772.00,7.30,Drama,1,0,0,6,3,4,tt0929632,0,0,0,1,R,79
-2009,A Serious Man,0,7000000.00,251337.00,7.00,"Comedy, Drama",0,0,0,2,1,1,tt1019452,0,0,0,0,R,79
-2009,Up,0,175000000.00,68108790.00,8.30,"Animation, Adventure, Comedy, Family",0,0,0,5,2,4,tt1049413,1,0,0,0,PG,88
-2009,Up in the Air,0,25000000.00,1181450.00,7.40,"Drama, Romance",0,0,0,6,6,6,tt1193138,0,0,0,0,R,83
-1996,The English Patient,1,27000000.00,278439.00,7.40,"Drama, Romance, War",0,1,1,12,7,13,tt0116209,1,1,0,0,R,87
-1996,Fargo,0,7000000.00,730265.00,8.10,"Crime, Drama, Thriller",0,0,0,7,4,6,tt0116282,0,0,0,0,R,85
-1996,Jerry Maguire,0,50000000.00,17084296.00,7.30,"Comedy, Drama, Romance, Sport",0,0,0,5,3,0,tt0116695,0,0,0,0,R,77
-1996,Secrets & Lies,0,,2931762.00,6.00,Drama,1,0,0,0,1,0,tt0120323,0,0,0,0,R,
-1996,Shine,0,5500000.00,162179.00,7.70,"Biography, Drama, Music, Romance",0,0,0,7,5,9,tt0117631,0,0,0,0,PG-13,87
-1984,Amadeus,1,18000000.00,86764.00,8.30,"Biography, Drama, History, Music",0,1,0,11,6,9,tt0086879,0,1,0,0,R,93
-1984,The Killing Fields,0,,32181.00,7.90,"Biography, Drama, History, War",0,0,1,7,6,13,tt0087553,0,0,0,0,R,
-1984,A Passage to India,0,16000000.00,84580.00,7.40,"Adventure, Drama, History",1,0,0,11,5,9,tt0087892,0,0,0,0,PG,
-1984,Places in the Heart,0,,,7.30,Drama,1,0,0,7,3,0,tt0087921,0,0,0,1,PG,
-1984,A Soldier's Story,0,6000000.00,156383.00,7.20,"Crime, Drama, Mystery, War",0,0,0,3,3,0,tt0088146,0,0,0,1,PG,
-1976,All the President's Men,0,8500000.00,,8.00,"Biography, Drama, History, Thriller",0,0,0,8,4,10,tt0074119,0,0,0,0,PG,
-1976,Bound for Glory,0,,,7.40,"Biography, Drama, Music",0,0,0,6,4,0,tt0074235,0,0,0,0,PG,
-1976,Network,0,3800000.00,,8.10,Drama,1,0,0,10,5,9,tt0074958,0,0,0,0,R,88
-1976,Rocky,1,960000.00,5000000.00,8.10,"Drama, Sport",0,1,0,10,6,5,tt0075148,0,1,0,0,PG,
-1976,Taxi Driver,0,1300000.00,,8.30,"Crime, Drama",1,0,0,4,2,7,tt0075314,0,0,0,0,R,93
+Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Rate,Metascore
+2017,Call Me By Your Name,,3500000,412932,8.3,"Drama, Romance",0,0,4,3,4,tt5726616,0,0,0,R,93
+2017,Darkest Hour,,30000000,2993519,7.4,"Biography, Drama, History",0,0,6,1,9,tt4555426,0,0,0,PG-13,75
+2017,Dunkirk,,100000000,50513488,8.1,"Action, Drama, History",0,0,8,3,8,tt5013056,0,0,0,PG-13,94
+2017,Get Out,,4500000,33377060,7.7,"Horror, Mystery, Thriller",0,0,4,2,2,tt5052448,0,0,0,R,84
+2017,Lady Bird,,10000000,364437,7.9,"Comedy, Drama",1,0,5,4,1,tt4925292,0,0,0,R,94
+2017,Phantom Thread,,35000000,216495,8.5,"Drama, Romance",0,0,6,2,4,tt5776858,0,0,0,R,90
+2017,The Post,,50000000,526011,7.5,"Biography, Drama, History",0,0,2,6,0,tt6294822,0,0,0,PG-13,83
+2017,The Shape of Water,,19400000,1667564,7.9,"Adventure, Drama, Fantasy",0,0,13,7,12,tt5580390,1,1,0,R,86
+2017,"Three Billboards Outside Ebbing, Missouri",,12000000,322168,8.3,"Crime, Drama",1,1,9,6,9,tt5027774,0,0,1,R,88
+2009,Avatar,0,237000000,77025481,7.8,"Action, Adventure, Fantasy, Sci-Fi",1,0,9,4,8,tt0499549,0,0,0,PG-13,83
+2009,The Blind Side,0,29000000,34119372,7.7,"Biography, Drama, Sport",0,0,2,1,0,tt0878804,0,0,0,PG-13,53
+2009,District 9,0,30000000,37354308,8,"Action, Sci-Fi, Thriller",0,0,4,1,7,tt1136608,0,0,0,R,81
+2009,An Education,0,4500000,,7.3,Drama,0,0,3,1,8,tt1174732,0,0,0,PG-13,85
+2009,The Hurt Locker,1,15000000,145352,7.6,"Drama, History, Thriller, War",0,1,9,3,8,tt0887912,1,1,0,R,94
+2009,Inglourious Basterds,0,75000000,38054676,8.3,"Adventure, Drama, War",0,0,8,4,6,tt0361748,0,0,1,R,69
+2009,Precious: Based on the Novel 'Push' by Sapphire,0,10000000,10881772,7.3,Drama,0,0,6,3,4,tt0929632,0,0,0,R,79
+2009,A Serious Man,0,7000000,251337,7,"Comedy, Drama",0,0,2,1,1,tt1019452,0,0,0,R,79
+2009,Up,0,175000000,68108790,8.3,"Animation, Adventure, Comedy, Family",0,0,5,2,4,tt1049413,1,0,0,PG,88
+2009,Up in the Air,0,25000000,1181450,7.4,"Drama, Romance",0,0,6,6,6,tt1193138,0,0,0,R,83
+1996,The English Patient,1,27000000,278439,7.4,"Drama, Romance, War",1,1,12,7,13,tt0116209,1,1,0,R,87
+1996,Fargo,0,7000000,730265,8.1,"Crime, Drama, Thriller",0,0,7,4,6,tt0116282,0,0,0,R,85
+1996,Jerry Maguire,0,50000000,17084296,7.3,"Comedy, Drama, Romance, Sport",0,0,5,3,0,tt0116695,0,0,0,R,77
+1996,Secrets & Lies,0,,2931762,6,Drama,0,0,0,1,0,tt0120323,0,0,0,R,
+1996,Shine,0,5500000,162179,7.7,"Biography, Drama, Music, Romance",0,0,7,5,9,tt0117631,0,0,0,PG-13,87
+1984,Amadeus,1,18000000,86764,8.3,"Biography, Drama, History, Music",1,0,11,6,9,tt0086879,0,1,0,R,93
+1984,The Killing Fields,0,,32181,7.9,"Biography, Drama, History, War",0,1,7,6,13,tt0087553,0,0,0,R,
+1984,A Passage to India,0,16000000,84580,7.4,"Adventure, Drama, History",0,0,11,5,9,tt0087892,0,0,0,PG,
+1984,Places in the Heart,0,,,7.3,Drama,0,0,7,3,0,tt0087921,0,0,0,PG,
+1984,A Soldier's Story,0,6000000,156383,7.2,"Crime, Drama, Mystery, War",0,0,3,3,0,tt0088146,0,0,0,PG,
+1976,All the President's Men,0,8500000,,8,"Biography, Drama, History, Thriller",0,0,8,4,10,tt0074119,0,0,0,PG,
+1976,Bound for Glory,0,,,7.4,"Biography, Drama, Music",0,0,6,4,0,tt0074235,0,0,0,PG,
+1976,Network,0,3800000,,8.1,Drama,0,0,10,5,9,tt0074958,0,0,0,R,88
+1976,Rocky,1,960000,5000000,8.1,"Drama, Sport",1,0,10,6,5,tt0075148,0,1,0,PG,
+1976,Taxi Driver,0,1300000,,8.3,"Crime, Drama",0,0,4,2,7,tt0075314,0,0,0,R,93
