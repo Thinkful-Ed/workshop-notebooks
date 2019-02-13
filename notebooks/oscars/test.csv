@@ -1,13 +1,12 @@
 Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Rate,Metascore
-2017,Call Me By Your Name,,3500000,412932,8.3,"Drama, Romance",0,0,4,3,4,tt5726616,0,0,0,R,93
-2017,Darkest Hour,,30000000,2993519,7.4,"Biography, Drama, History",0,0,6,1,9,tt4555426,0,0,0,PG-13,75
-2017,Dunkirk,,100000000,50513488,8.1,"Action, Drama, History",0,0,8,3,8,tt5013056,0,0,0,PG-13,94
-2017,Get Out,,4500000,33377060,7.7,"Horror, Mystery, Thriller",0,0,4,2,2,tt5052448,0,0,0,R,84
-2017,Lady Bird,,10000000,364437,7.9,"Comedy, Drama",1,0,5,4,1,tt4925292,0,0,0,R,94
-2017,Phantom Thread,,35000000,216495,8.5,"Drama, Romance",0,0,6,2,4,tt5776858,0,0,0,R,90
-2017,The Post,,50000000,526011,7.5,"Biography, Drama, History",0,0,2,6,0,tt6294822,0,0,0,PG-13,83
-2017,The Shape of Water,,19400000,1667564,7.9,"Adventure, Drama, Fantasy",0,0,13,7,12,tt5580390,1,1,0,R,86
-2017,"Three Billboards Outside Ebbing, Missouri",,12000000,322168,8.3,"Crime, Drama",1,1,9,6,9,tt5027774,0,0,1,R,88
+2018,A Star is Born,,36000000,42908051,7.9,"Drama, Music, Romance",0,0,8,5,7,tt1517451,0,0,0,R,88
+2018,BlacKkKclansman,,15000000,10845330,7.5,"Biography, Drama, History",0,0,6,4,5,tt7349662,0,0,0,R,83
+2018,Black Panther,,200000000,202003051,7.4,"Action, Drama, History",0,0,7,3,1,tt1825683,0,0,1,PG-13,88
+2018,Bohemian Rhapsody,,52000000,51061119,,"Horror, Mystery, Thriller",1,0,5,2,7,tt1727824,0,0,0,PG-13,49
+2018,Green Book,,23000000,320429,8.3,"Comedy, Drama",1,0,5,5,4,tt6966692,1,0,0,PG-13,69
+2018,Roma,,15000000,100000,7.9,Drama,0,1,10,3,7,tt6155172,0,1,0,R,96
+2018,The Favourite,,15000000,422410,7.8,"Biography, Drama, History",0,0,10,5,12,tt5083738,0,0,0,R,90
+2018,Vice,,60000000,7768371,7.1,"Adventure, Drama, Fantasy",0,0,8,6,6,tt6266538,0,0,0,R,61
 2009,Avatar,0,237000000,77025481,7.8,"Action, Adventure, Fantasy, Sci-Fi",1,0,9,4,8,tt0499549,0,0,0,PG-13,83
 2009,The Blind Side,0,29000000,34119372,7.7,"Biography, Drama, Sport",0,0,2,1,0,tt0878804,0,0,0,PG-13,53
 2009,District 9,0,30000000,37354308,8,"Action, Sci-Fi, Thriller",0,0,4,1,7,tt1136608,0,0,0,R,81

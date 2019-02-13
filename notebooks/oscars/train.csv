@@ -1,4 +1,13 @@
 Year,Movie,Won?,Budget,Opening Weekend,IMDB Rating,Genres,Won Golden Globe,Won Bafta,Oscar Nominations,Golden Globe Nominations,Bafta Nominations,IMdB id,Won Producers,Won Directors,Won Actors,Rate,Metascore
+2017,Call Me By Your Name,0,3500000,412932,8.3,"Drama, Romance",0,0,4,3,4,tt5726616,0,0,0,R,93
+2017,Darkest Hour,0,30000000,2993519,7.4,"Biography, Drama, History",0,0,6,1,9,tt4555426,0,0,0,PG-13,75
+2017,Dunkirk,0,100000000,50513488,8.1,"Action, Drama, History",0,0,8,3,8,tt5013056,0,0,0,PG-13,94
+2017,Get Out,0,4500000,33377060,7.7,"Horror, Mystery, Thriller",0,0,4,2,2,tt5052448,0,0,0,R,84
+2017,Lady Bird,0,10000000,364437,7.9,"Comedy, Drama",1,0,5,4,1,tt4925292,0,0,0,R,94
+2017,Phantom Thread,0,35000000,216495,8.5,"Drama, Romance",0,0,6,2,4,tt5776858,0,0,0,R,90
+2017,The Post,0,50000000,526011,7.5,"Biography, Drama, History",0,0,2,6,0,tt6294822,0,0,0,PG-13,83
+2017,The Shape of Water,1,19400000,1667564,7.9,"Adventure, Drama, Fantasy",0,0,13,7,12,tt5580390,1,1,0,R,86
+2017,"Three Billboards Outside Ebbing, Missouri",0,12000000,322168,8.3,"Crime, Drama",1,1,9,6,9,tt5027774,0,0,1,R,88
 2016,Arrival,0,47000000,24000000,8.1,"Drama, Mystery, Sci-Fi, Thriller",0,0,8,2,9,tt2543164,0,0,0,PG-13,81
 2016,Fences,0,24000000,129462,7.5,Drama,0,0,4,2,1,tt2671706,0,0,0,PG-13,79
 2016,Hacksaw Ridge,0,40000000,15190758,8.3,"Drama, History, War",0,0,6,3,5,tt2119532,0,0,0,R,71
